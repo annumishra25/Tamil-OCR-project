@@ -1,0 +1,24 @@
+line_index,line_id,line_type,image_filename,reference_text,normalized_reference,raw_prediction,normalized_prediction,confidence,cer,wer,inference_time_sec,status
+1,line_left_L4,marginalia,line_001_line_left_L4.png,ஊட,ஊட,,,NOT_AVAILABLE,1.0,1.0,0.5599,SUCCESS
+2,line_left_L5,marginalia,line_002_line_left_L5.png,லுவகை,லுவகை,,,NOT_AVAILABLE,1.0,1.0,0.0137,SUCCESS
+3,line_left_L7,marginalia,line_003_line_left_L7.png,௮௰௭,௮௰௭,,,NOT_AVAILABLE,1.0,1.0,0.0073,SUCCESS
+4,line_body_L1,paragraph,line_004_line_body_L1.png,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330","வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330",0.7569,1.0,1.0,0.317,SUCCESS
+5,line_body_L2,paragraph,line_005_line_body_L2.png,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,^ 90 @.1 -,^ 90 @.1 -,0.2986,0.9423,1.0,0.2412,SUCCESS
+6,line_body_L3,paragraph,line_006_line_body_L3.png,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,00 -~ @ ஈச ஸவ அ ச ஈஸ ஸஎர . வர0 _0 டா 0 பனறு -0 ~ ~0 90,00 -~ @ ஈச ஸவ அ ச ஈஸ ஸஎர . வர0 _0 டா 0 பனறு -0 ~ ~0 90,0.2418,0.8966,2.7143,0.5095,SUCCESS
+7,line_body_L4,paragraph,line_007_line_body_L4.png,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"ப 0ப ச 4  0 ப4ு 6எ0 (ச - ஈ ஈ & <  ஈய : ஏய ஏன"" 0 0","ப 0ப ச 4 0 ப4ு 6எ0 (ச - ஈ ஈ & < ஈய : ஏய ஏன"" 0 0",0.2225,0.902,4.75,0.3991,SUCCESS
+8,line_body_L5,paragraph,line_008_line_body_L5.png,தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,@9 | -0 ட00 ஸ ~0:40~ட 059-099 +205 00 ~~ல,@9 | -0 ட00 ஸ ~0:40~ட 059-099 +205 00 ~~ல,0.2713,0.9107,1.4286,0.4883,SUCCESS
+9,line_body_L6,paragraph,line_009_line_body_L6.png,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,0  0 0 8 ய ட!- -ச  ஸிா 5 அ0 0,0 0 0 8 ய ட!- -ச ஸிா 5 அ0 0,0.2937,0.8696,2.2,0.2713,SUCCESS
+10,line_body_L7,paragraph,line_010_line_body_L7.png,உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,&~ம சறவ 1 வமு ஈ ுங எடட கா யய .,&~ம சறவ 1 வமு ஈ ுங எடட கா யய .,0.2541,0.7593,1.4286,0.3248,SUCCESS
+11,line_body_L8,paragraph,line_011_line_body_L8.png,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,. சபகுா -~0' ா ஆ ஏ பா~  ! ஸ_க,. சபகுா -~0' ா ஆ ஏ பா~ ! ஸ_க,0.1557,0.85,1.125,0.5121,SUCCESS
+12,line_body_L9,paragraph,line_012_line_body_L9.png,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,"0-00 '0 ஸல *81 +0 0_6/,00]","0-00 '0 ஸல *81 +0 0_6/,00]",0.1954,0.898,1.0,0.2192,SUCCESS
+13,line_body_L10,paragraph,line_013_line_body_L10.png,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,NOT_AVAILABLE,1.0,1.0,0.0369,SUCCESS
+14,line_right_L1,marginalia,line_014_line_right_L1.png,௧,௧,,,NOT_AVAILABLE,1.0,1.0,0.0418,SUCCESS
+15,line_right_L2,marginalia,line_015_line_right_L2.png,௨,௨,,,NOT_AVAILABLE,1.0,1.0,0.0136,SUCCESS
+16,line_right_L3,marginalia,line_016_line_right_L3.png,௩,௩,,,NOT_AVAILABLE,1.0,1.0,0.0204,SUCCESS
+17,line_right_L4,marginalia,line_017_line_right_L4.png,௪,௪,,,NOT_AVAILABLE,1.0,1.0,0.014,SUCCESS
+18,line_right_L5,marginalia,line_018_line_right_L5.png,௫,௫,,,NOT_AVAILABLE,1.0,1.0,0.0283,SUCCESS
+19,line_right_L6,marginalia,line_019_line_right_L6.png,௬,௬,,,NOT_AVAILABLE,1.0,1.0,0.0225,SUCCESS
+20,line_right_L7,marginalia,line_020_line_right_L7.png,௭,௭,,,NOT_AVAILABLE,1.0,1.0,0.0188,SUCCESS
+21,line_right_L8,marginalia,line_021_line_right_L8.png,௮,௮,,,NOT_AVAILABLE,1.0,1.0,0.0159,SUCCESS
+22,line_right_L9,marginalia,line_022_line_right_L9.png,௯,௯,,,NOT_AVAILABLE,1.0,1.0,0.0193,SUCCESS
+23,line_right_L10,marginalia,line_023_line_right_L10.png,௰,௰,,,NOT_AVAILABLE,1.0,1.0,0.0229,SUCCESS

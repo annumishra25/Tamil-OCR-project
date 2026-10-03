@@ -1,0 +1,162 @@
+line_id,pipeline_key,pipeline_name,reference_text,normalized_reference,raw_prediction,normalized_prediction,cer,wer,processing_time_sec
+line_left_L4,raw,Raw Unprocessed,ஊட,ஊட,,,1.0,1.0,0.2235
+line_left_L5,raw,Raw Unprocessed,லுவகை,லுவகை,,,1.0,1.0,0.0068
+line_left_L7,raw,Raw Unprocessed,௮௰௭,௮௰௭,,,1.0,1.0,0.0069
+line_body_L1,raw,Raw Unprocessed,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330","வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330",1.0,1.0,0.2809
+line_body_L2,raw,Raw Unprocessed,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,00 00,00 00,0.9808,1.0,0.0859
+line_body_L3,raw,Raw Unprocessed,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,00 500190 {ப அ ச ஈஸ ஸஎர . வாடட _0 டா 0 பறு 9 ( 9 90,00 500190 {ப அ ச ஈஸ ஸஎர . வாடட _0 டா 0 பறு 9 ( 9 90,0.8793,2.4286,0.4643
+line_body_L4,raw,Raw Unprocessed,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"ப 0ப ச 4  0 ப 4ு 60 பச - ஈ ஈ ஸ பச யஈய ~ ஈ எயா ஏன"" @ @","ப 0ப ச 4 0 ப 4ு 60 பச - ஈ ஈ ஸ பச யஈய ~ ஈ எயா ஏன"" @ @",0.9412,5.25,0.415
+line_body_L5,raw,Raw Unprocessed,தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,@9 3 0 ட 9)0310~ட9 00 0 00 ~~ல,@9 3 0 ட 9)0310~ட9 00 0 00 ~~ல,0.9286,1.2857,0.3842
+line_body_L6,raw,Raw Unprocessed,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,0  0 -~0!0 000-8 ச லிர =0 ச,0 0 -~0!0 000-8 ச லிர =0 ச,0.8696,1.6,0.3115
+line_body_L7,raw,Raw Unprocessed,உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,& ஈடம சறவ 1 வமு ஈுங எடட கா யய . .~0,& ஈடம சறவ 1 வமு ஈுங எடட கா யய . .~0,0.7778,1.5714,0.3455
+line_body_L8,raw,Raw Unprocessed,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,ப ச`பறுகு ஸட ~8   ா ஆ ஏ யா~~  .0 ம 0~,ப ச`பறுகு ஸட ~8 ா ஆ ஏ யா~~ .0 ம 0~,0.8167,1.375,0.5031
+line_body_L9,raw,Raw Unprocessed,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,"3|[ '0 ஸ _6^,00]-","3|[ '0 ஸ _6^,00]-",0.9388,1.0,0.1543
+line_body_L10,raw,Raw Unprocessed,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.0208
+line_right_L1,raw,Raw Unprocessed,௧,௧,,,1.0,1.0,0.0277
+line_right_L2,raw,Raw Unprocessed,௨,௨,,,1.0,1.0,0.0072
+line_right_L3,raw,Raw Unprocessed,௩,௩,,,1.0,1.0,0.0066
+line_right_L4,raw,Raw Unprocessed,௪,௪,,,1.0,1.0,0.0065
+line_right_L5,raw,Raw Unprocessed,௫,௫,,,1.0,1.0,0.0068
+line_right_L6,raw,Raw Unprocessed,௬,௬,,,1.0,1.0,0.0047
+line_right_L7,raw,Raw Unprocessed,௭,௭,,,1.0,1.0,0.0105
+line_right_L8,raw,Raw Unprocessed,௮,௮,,,1.0,1.0,0.0082
+line_right_L9,raw,Raw Unprocessed,௯,௯,,,1.0,1.0,0.0058
+line_right_L10,raw,Raw Unprocessed,௰,௰,,,1.0,1.0,0.0044
+line_left_L4,grayscale,Standard Grayscale,ஊட,ஊட,,,1.0,1.0,0.0064
+line_left_L5,grayscale,Standard Grayscale,லுவகை,லுவகை,,,1.0,1.0,0.0026
+line_left_L7,grayscale,Standard Grayscale,௮௰௭,௮௰௭,,,1.0,1.0,0.0087
+line_body_L1,grayscale,Standard Grayscale,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330","வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330",1.0,1.0,0.1429
+line_body_L2,grayscale,Standard Grayscale,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,( 09 @ 009 1| ம / 00 (,( 09 @ 009 1| ம / 00 (,0.8462,1.125,0.2366
+line_body_L3,grayscale,Standard Grayscale,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,00 _ -ட9 ஈச ஸவ அப  ஈஸ ஸஎரி வர0 ஏறு _ டா 0 பறு ~ ~ `0,00 _ -ட9 ஈச ஸவ அப ஈஸ ஸஎரி வர0 ஏறு _ டா 0 பறு ~ ~ `0,0.8966,2.4286,0.4786
+line_body_L4,grayscale,Standard Grayscale,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"~ ச*~ - ப4ு 6எ0 பச - ஈ ஈ &  ஈ ஃ  ஏய ஏன"" @ @","~ ச*~ - ப4ு 6எ0 பச - ஈ ஈ & ஈ ஃ ஏய ஏன"" @ @",0.9216,4.0,0.4295
+line_body_L5,grayscale,Standard Grayscale,தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,@9 3 0 ட0 பட ~)010~ட 5595099 0 00 00 ~~ல,@9 3 0 ட0 பட ~)010~ட 5595099 0 00 00 ~~ல,0.9107,1.5714,0.4653
+line_body_L6,grayscale,Standard Grayscale,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,0  085_ ஸ 8ய /~!0 ப-ச  ஸிா5` அ0 0 /-,0 085_ ஸ 8ய /~!0 ப-ச ஸிா5` அ0 0 /-,0.8696,2.0,0.3413
+line_body_L7,grayscale,Standard Grayscale,உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,& ஈடம இறவ 1 வமு ஈுங எடட கா யய .,& ஈடம இறவ 1 வமு ஈுங எடட கா யய .,0.7593,1.4286,0.31
+line_body_L8,grayscale,Standard Grayscale,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,"ப சபறகு ஸட *~970ா   பப ~ ""ா- ண + ஸ0 6ண ~0 ~","ப சபறகு ஸட *~970ா பப ~ ""ா- ண + ஸ0 6ண ~0 ~",0.8167,1.625,0.5751
+line_body_L9,grayscale,Standard Grayscale,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,"0-00 0 ஸ ~0 00 _6/,00]","0-00 0 ஸ ~0 00 _6/,00]",0.898,1.0,0.1519
+line_body_L10,grayscale,Standard Grayscale,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.0192
+line_right_L1,grayscale,Standard Grayscale,௧,௧,,,1.0,1.0,0.0067
+line_right_L2,grayscale,Standard Grayscale,௨,௨,,,1.0,1.0,0.0144
+line_right_L3,grayscale,Standard Grayscale,௩,௩,,,1.0,1.0,0.0064
+line_right_L4,grayscale,Standard Grayscale,௪,௪,,,1.0,1.0,0.0
+line_right_L5,grayscale,Standard Grayscale,௫,௫,,,1.0,1.0,0.0143
+line_right_L6,grayscale,Standard Grayscale,௬,௬,,,1.0,1.0,0.0065
+line_right_L7,grayscale,Standard Grayscale,௭,௭,,,1.0,1.0,0.0007
+line_right_L8,grayscale,Standard Grayscale,௮,௮,,,1.0,1.0,0.0068
+line_right_L9,grayscale,Standard Grayscale,௯,௯,,,1.0,1.0,0.0073
+line_right_L10,grayscale,Standard Grayscale,௰,௰,,,1.0,1.0,0.0066
+line_left_L4,pipeline_a_clahe,Pipeline A (CLAHE),ஊட,ஊட,,,1.0,1.0,0.0142
+line_left_L5,pipeline_a_clahe,Pipeline A (CLAHE),லுவகை,லுவகை,,,1.0,1.0,0.0134
+line_left_L7,pipeline_a_clahe,Pipeline A (CLAHE),௮௰௭,௮௰௭,,,1.0,1.0,0.0072
+line_body_L1,pipeline_a_clahe,Pipeline A (CLAHE),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330","வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330",1.0,1.0,0.1461
+line_body_L2,pipeline_a_clahe,Pipeline A (CLAHE),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,,,1.0,1.0,0.029
+line_body_L3,pipeline_a_clahe,Pipeline A (CLAHE),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,5 00 001 0] ஈஸஸஎபி வாடட ஈ பா 9 பறு டப,5 00 001 0] ஈஸஸஎபி வாடட ஈ பா 9 பறு டப,0.8966,1.5714,0.3173
+line_body_L4,pipeline_a_clahe,Pipeline A (CLAHE),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"ஸ ச 4 ஸ  ப 4 60 @7 ஈஸ 0ச பஈ ஈ ஈஏயா ஏ8"" 0 0""","ஸ ச 4 ஸ ப 4 60 @7 ஈஸ 0ச பஈ ஈ ஈஏயா ஏ8"" 0 0""",0.9216,4.0,0.3702
+line_body_L5,pipeline_a_clahe,Pipeline A (CLAHE),தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,ஸ9ல -~[009102= 1~0- 0#- 00,ஸ9ல -~[009102= 1~0- 0#- 00,0.9107,1.0,0.2596
+line_body_L6,pipeline_a_clahe,Pipeline A (CLAHE),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,^~9ச சாச ா ஸூ ~~ 0ட.,^~9ச சாச ா ஸூ ~~ 0ட.,0.8478,1.2,0.1706
+line_body_L7,pipeline_a_clahe,Pipeline A (CLAHE),உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,&ஈட்லம இபறவ வமு 1மங உட லி மகா _! 9,&ஈட்லம இபறவ வமு 1மங உட லி மகா _! 9,0.7222,1.2857,0.287
+line_body_L8,pipeline_a_clahe,Pipeline A (CLAHE),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,""" -5~ படூ ஏ7ச சா ஏ பா~~ 09  +87",""" -5~ படூ ஏ7ச சா ஏ பா~~ 09 +87",0.8667,1.125,0.4278
+line_body_L9,pipeline_a_clahe,Pipeline A (CLAHE),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,05 ஸஸ _-ஈ=,05 ஸஸ _-ஈ=,0.9592,1.0,0.1313
+line_body_L10,pipeline_a_clahe,Pipeline A (CLAHE),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.021
+line_right_L1,pipeline_a_clahe,Pipeline A (CLAHE),௧,௧,,,1.0,1.0,0.0068
+line_right_L2,pipeline_a_clahe,Pipeline A (CLAHE),௨,௨,,,1.0,1.0,0.0144
+line_right_L3,pipeline_a_clahe,Pipeline A (CLAHE),௩,௩,,,1.0,1.0,0.007
+line_right_L4,pipeline_a_clahe,Pipeline A (CLAHE),௪,௪,,,1.0,1.0,0.0069
+line_right_L5,pipeline_a_clahe,Pipeline A (CLAHE),௫,௫,,,1.0,1.0,0.0136
+line_right_L6,pipeline_a_clahe,Pipeline A (CLAHE),௬,௬,,,1.0,1.0,0.0107
+line_right_L7,pipeline_a_clahe,Pipeline A (CLAHE),௭,௭,,,1.0,1.0,0.0104
+line_right_L8,pipeline_a_clahe,Pipeline A (CLAHE),௮,௮,,,1.0,1.0,0.0069
+line_right_L9,pipeline_a_clahe,Pipeline A (CLAHE),௯,௯,,,1.0,1.0,0.0138
+line_right_L10,pipeline_a_clahe,Pipeline A (CLAHE),௰,௰,,,1.0,1.0,0.007
+line_left_L4,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),ஊட,ஊட,,,1.0,1.0,0.0136
+line_left_L5,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),லுவகை,லுவகை,,,1.0,1.0,0.0075
+line_left_L7,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௮௰௭,௮௰௭,,,1.0,1.0,0.0076
+line_body_L1,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322.1323,1324,1325,1326,1327,1328.1329.1330","வகை 1321,1322.1323,1324,1325,1326,1327,1328.1329.1330",1.0,1.0,0.1526
+line_body_L2,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,,,1.0,1.0,0.0294
+line_body_L3,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,ஈ9 0 -0 +  090,ஈ9 0 -0 + 090,0.931,1.0,0.2446
+line_body_L4,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,0 0 9000 அ0,0 0 9000 அ0,0.9412,1.0,0.1945
+line_body_L5,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,,,1.0,1.0,0.0301
+line_body_L6,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,+ ~~,+ ~~,0.9783,1.0,0.0743
+line_body_L7,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,00 (.ு 0 ஊ0,00 (.ு 0 ஊ0,0.9259,1.0,0.206
+line_body_L8,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,-,-,1.0,1.0,0.0881
+line_body_L9,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,,,1.0,1.0,0.0279
+line_body_L10,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.026
+line_right_L1,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௧,௧,,,1.0,1.0,0.0071
+line_right_L2,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௨,௨,,,1.0,1.0,0.0137
+line_right_L3,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௩,௩,,,1.0,1.0,0.007
+line_right_L4,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௪,௪,,,1.0,1.0,0.0059
+line_right_L5,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௫,௫,,,1.0,1.0,0.006
+line_right_L6,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௬,௬,,,1.0,1.0,0.0095
+line_right_L7,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௭,௭,,,1.0,1.0,0.0116
+line_right_L8,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௮,௮,,,1.0,1.0,0.0066
+line_right_L9,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௯,௯,,,1.0,1.0,0.007
+line_right_L10,pipeline_b_denoise_clahe,Pipeline B (Bilateral + CLAHE),௰,௰,,,1.0,1.0,0.0069
+line_left_L4,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),ஊட,ஊட,,,1.0,1.0,0.0139
+line_left_L5,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),லுவகை,லுவகை,,,1.0,1.0,0.0085
+line_left_L7,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௮௰௭,௮௰௭,,,1.0,1.0,0.0127
+line_body_L1,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330","வகை 1321,1322,1323,1324,1325,1326,1327,1328,1329,1330",1.0,1.0,0.1443
+line_body_L2,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,,,1.0,1.0,0.0289
+line_body_L3,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,5 .0 அசி ஈலஸஎப் . வாடட ப4~0 பர பறு 10-7,5 .0 அசி ஈலஸஎப் . வாடட ப4~0 பர பறு 10-7,0.8621,1.4286,0.3218
+line_body_L4,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"0 ச 4 6  பபு 60 (னச 7 ஈஸ 4ச பய "" ஈஏயா ஏ8"" .009 _-","0 ச 4 6 பபு 60 (னச 7 ஈஸ 4ச பய "" ஈஏயா ஏ8"" .009 _-",0.9216,4.0,0.3693
+line_body_L5,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,^95@9  0 -~009102# 101 04  0=-,^95@9 0 -~009102# 101 04 0=-,0.9286,1.0,0.3643
+line_body_L6,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,ட0 ாச ஸிு ட 9,ட0 ாச ஸிு ட 9,0.8478,1.0,0.1616
+line_body_L7,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,ஈடம இபறவ வமுஈமங ய லிமா .9 ப,ஈடம இபறவ வமுஈமங ய லிமா .9 ப,0.7593,1.0,0.3353
+line_body_L8,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,""" .5- பறகு `7 ா  ஏ~ ப""~~ன 100 ய",""" .5- பறகு `7 ா ஏ~ ப""~~ன 100 ய",0.8167,1.125,0.4028
+line_body_L9,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,! ஸஸ _5` 0) .,! ஸஸ _5` 0) .,0.9184,1.0,0.1248
+line_body_L10,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.0273
+line_right_L1,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௧,௧,,,1.0,1.0,0.0075
+line_right_L2,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௨,௨,,,1.0,1.0,0.0065
+line_right_L3,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௩,௩,,,1.0,1.0,0.0087
+line_right_L4,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௪,௪,,,1.0,1.0,0.0043
+line_right_L5,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௫,௫,,,1.0,1.0,0.0088
+line_right_L6,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௬,௬,,,1.0,1.0,0.0052
+line_right_L7,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௭,௭,,,1.0,1.0,0.0069
+line_right_L8,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௮,௮,,,1.0,1.0,0.0074
+line_right_L9,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௯,௯,,,1.0,1.0,0.0116
+line_right_L10,pipeline_c_illum_clahe,Pipeline C (Illumination Norm + CLAHE),௰,௰,,,1.0,1.0,0.0107
+line_left_L4,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),ஊட,ஊட,,,1.0,1.0,0.0114
+line_left_L5,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),லுவகை,லுவகை,- ர,- ர,1.0,2.0,0.0486
+line_left_L7,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௮௰௭,௮௰௭,,,1.0,1.0,0.0139
+line_body_L1,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321 1322.1323 1324 1325,1326.1327,1328,1329.1330","வகை 1321 1322.1323 1324 1325,1326.1327,1328,1329.1330",0.9811,1.0,0.1425
+line_body_L2,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,6<0 +0 ய 7 6+7(,6<0 +0 ய 7 6+7(,0.9231,1.0,0.1415
+line_body_L3,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,ர1 9 ஈ 4 ப 3  5+ ஈ எ ஸஎப வஈட0 ஏவு +0 |1 பல ட0 0ட,ர1 9 ஈ 4 ப 3 5+ ஈ எ ஸஎப வஈட0 ஏவு +0 |1 பல ட0 0ட,0.8621,2.4286,0.3035
+line_body_L4,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"+{ 0 ச < .3!0 44 64 ஸ (' ல ~ (`ஸ & ( 4ஈ ( ஈ67ய5 பச~"" ய","+{ 0 ச < .3!0 44 64 ஸ (' ல ~ (`ஸ & ( 4ஈ ( ஈ67ய5 பச~"" ய",1.0,4.75,0.3775
+line_body_L5,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,ப ~ ' @' {1.ய ப00 ய 0 0] -+4 0,ப ~ ' @' {1.ய ப00 ய 0 0] -+4 0,0.8929,1.5714,0.2521
+line_body_L6,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,.7^ ி !| '0 பாச . ஸி 5` -,.7^ ி !| '0 பாச . ஸி 5` -,0.8478,1.8,0.1721
+line_body_L7,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,&ஈர ய~0'ுறய ~ ஈ ளமுாமாங - லி 0கா -! உ +,&ஈர ய~0'ுறய ~ ஈ ளமுாமாங - லி 0கா -! உ +,0.7963,1.5714,0.3544
+line_body_L8,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,$`ப  வாப +0 அஈ' =எ~! அ790 ய பய ய 0' சலா 0 . 0ு,$`ப வாப +0 அஈ' =எ~! அ790 ய பய ய 0' சலா 0 . 0ு,0.8167,1.75,0.3121
+line_body_L9,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,@ ஸ .0 0 ) பம ர ப ! 10 /5_ ப  0ர^ ப,@ ஸ .0 0 ) பம ர ப ! 10 /5_ ப 0ர^ ப,0.7959,1.75,0.2569
+line_body_L10,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.0276
+line_right_L1,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௧,௧,,,1.0,1.0,0.0073
+line_right_L2,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௨,௨,,,1.0,1.0,0.0064
+line_right_L3,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௩,௩,,,1.0,1.0,0.0142
+line_right_L4,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௪,௪,,,1.0,1.0,0.0072
+line_right_L5,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௫,௫,,,1.0,1.0,0.0065
+line_right_L6,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௬,௬,,,1.0,1.0,0.0065
+line_right_L7,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௭,௭,,,1.0,1.0,0.006
+line_right_L8,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௮,௮,,,1.0,1.0,0.0063
+line_right_L9,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௯,௯,,,1.0,1.0,0.007
+line_right_L10,pipeline_d_sauvola_deskew,Pipeline D (Sauvola + Deskew),௰,௰,,,1.0,1.0,0.0067
+line_left_L4,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),ஊட,ஊட,,,1.0,1.0,0.0141
+line_left_L5,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),லுவகை,லுவகை,,,1.0,1.0,0.0067
+line_left_L7,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௮௰௭,௮௰௭,,,1.0,1.0,0.0138
+line_body_L1,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"வகை 1321,1322,1323,1324,1325.1326,1327,1328,1329.1330","வகை 1321,1322,1323,1324,1325.1326,1327,1328,1329.1330",1.0,1.0,0.1454
+line_body_L2,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,04,04,1.0,1.0,0.057
+line_body_L3,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,"^சு ஸ""ட சஈய ஏம ~ா 0","^சு ஸ""ட சஈய ஏம ~ா 0",0.8621,1.0,0.1604
+line_body_L4,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"~  .0 <40<0 0'~>~ஈ ஸ (4""4"" 0சய^ என"" @","~ .0 <40<0 0'~>~ஈ ஸ (4""4"" 0சய^ என"" @",0.9412,2.25,0.3008
+line_body_L5,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,9 00 (],9 00 (],0.9643,1.0,0.1142
+line_body_L6,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,,,1.0,1.0,0.0337
+line_body_L7,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்,உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,8 'க0ய 9' ஈ ப9ாமாயய ~ .டல0ா,8 'க0ய 9' ஈ ப9ாமாயய ~ .டல0ா,0.8519,1.0,0.4069
+line_body_L8,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு,உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,>,>,1.0,1.0,0.0586
+line_body_L9,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,ப4 ~ ய8,ப4 ~ ய8,0.9388,1.0,0.1226
+line_body_L10,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்,உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,,,1.0,1.0,0.0316
+line_right_L1,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௧,௧,,,1.0,1.0,0.0063
+line_right_L2,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௨,௨,,,1.0,1.0,0.0142
+line_right_L3,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௩,௩,,,1.0,1.0,0.0067
+line_right_L4,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௪,௪,,,1.0,1.0,0.0139
+line_right_L5,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௫,௫,,,1.0,1.0,0.0073
+line_right_L6,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௬,௬,,,1.0,1.0,0.0115
+line_right_L7,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௭,௭,,,1.0,1.0,0.0091
+line_right_L8,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௮,௮,,,1.0,1.0,0.0094
+line_right_L9,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௯,௯,,,1.0,1.0,0.0043
+line_right_L10,pipeline_e_master_adaptive,Pipeline E (Master Adaptive),௰,௰,,,1.0,1.0,0.0069

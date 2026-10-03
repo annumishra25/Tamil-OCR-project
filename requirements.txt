@@ -1,0 +1,17 @@
+# Foundational Dependencies for Tamil Palm-Leaf Manuscript OCR / HTR System
+# PyTorch with CUDA 12.4 should be installed via:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# Core Numerical and Image Processing
+numpy>=1.26.0,<2.5.0
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# Evaluation & String Metrics
+jiwer>=3.0.0
+
+# Data and Utilities
+requests>=2.31.0
+pyyaml>=6.0.1
+tqdm>=4.66.0
+packaging>=23.0

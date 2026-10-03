@@ -1,0 +1,6 @@
+experiment_id,model,dataset_name,sample_count,preprocessing,mean_cer,mean_wer,exact_match_pct,mean_latency_ms,total_inference_sec
+EXP-8A,Pretrained Baseline (EasyOCR Tamil CRNN),Synthetic Test (35 Lines),35,None (Raw),0.999,1.0,0.0,64.15,3.34
+EXP-8B,Pretrained Baseline (EasyOCR Tamil CRNN),CICT GT-133 Real External Test (N=23),23,None (Raw),1.938,1.0435,0.0,31.76,1.05
+EXP-8C,Fine-Tuned Tamil CRNN (Stage 8 Best Checkpoint),Synthetic Test (35 Lines),35,None (Raw),0.1276,0.4824,31.43,27.2,1.0
+EXP-8D,Fine-Tuned Tamil CRNN (Stage 8 Best Checkpoint),CICT GT-133 Real External Test (N=23),23,None (Raw),2.9195,1.3689,0.0,42.41,1.04
+EXP-8E,Fine-Tuned Tamil CRNN + Pipeline C (Illum Norm + CLAHE),CICT GT-133 Real External Test (N=23),23,pipeline_c_illum_clahe,1.9148,1.0491,0.0,47.67,1.29

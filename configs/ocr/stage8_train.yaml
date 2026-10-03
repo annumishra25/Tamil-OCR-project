@@ -1,0 +1,29 @@
+# Stage 8 Full Fine-Tuning Configuration (RTX 4050 ~6 GB VRAM)
+experiment_name: "stage8_synthetic_domain_adaptation"
+model_architecture: "easyocr_tamil_crnn"
+vocab_size: 143
+seed: 42
+
+training:
+  epochs: 15
+  batch_size: 8
+  gradient_accumulation_steps: 2  # Effective batch size = 16
+  learning_rate: 0.0003
+  min_learning_rate: 0.00001
+  weight_decay: 0.0001
+  grad_clip_norm: 5.0
+  fp16: true
+  early_stopping_patience: 4
+
+data:
+  input_height: 32
+  max_width: 800
+  num_workers: 0  # Safe for Windows multiprocessing
+
+paths:
+  train_jsonl: "data/synthetic/synthetic_train.jsonl"
+  val_jsonl: "data/synthetic/synthetic_val.jsonl"
+  test_jsonl: "data/synthetic/synthetic_test.jsonl"
+  external_test_jsonl: "data/splits/external_test.jsonl"
+  checkpoint_dir: "models/checkpoints/stage8"
+  best_checkpoint: "models/checkpoints/stage8/best_tamil_crnn.pth"

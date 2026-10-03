@@ -1,0 +1,192 @@
+# Synthetic Palm-Leaf Manuscript Degradation Configuration
+# Stage 7 Synthetic Generation Engine
+
+global:
+  seed: 42
+  image_height: 50
+  min_image_width: 800
+  padding_x: 20
+  padding_y: 8
+  default_font_size: 28
+  background_base_color: [215, 195, 160] # Natural dried palm-leaf brownish-ochre
+  text_ink_color: [35, 28, 22]          # Natural lampblack / charcoal incised ink
+
+presets:
+  LIGHT:
+    description: "Mild manuscript aging with subtle leaf grain and minimal blur"
+    illumination_gradient:
+      enabled: true
+      strength: [0.05, 0.15]
+    contrast:
+      factor: [0.85, 1.05]
+    brightness:
+      factor: [0.90, 1.10]
+    gaussian_blur:
+      enabled: true
+      sigma: [0.3, 0.7]
+    motion_blur:
+      enabled: false
+      kernel_size: 3
+    noise:
+      enabled: true
+      std: [2.0, 6.0]
+    scratches:
+      enabled: true
+      count: [1, 3]
+      length_range: [20, 80]
+      intensity: [0.15, 0.35]
+    fibrous_texture:
+      enabled: true
+      strength: [0.10, 0.25]
+    stroke_fading:
+      enabled: false
+    speckles:
+      enabled: true
+      count: [2, 6]
+      radius: [1, 2]
+    geometric:
+      rotation: [-0.8, 0.8]
+      shear: [-0.01, 0.01]
+
+  MEDIUM:
+    description: "Authentic historical palm leaf with visible grain, scratches, and slight ink wear"
+    illumination_gradient:
+      enabled: true
+      strength: [0.15, 0.35]
+    contrast:
+      factor: [0.70, 0.95]
+    brightness:
+      factor: [0.80, 1.15]
+    gaussian_blur:
+      enabled: true
+      sigma: [0.5, 1.2]
+    motion_blur:
+      enabled: true
+      prob: 0.3
+      kernel_size: [3, 5]
+    noise:
+      enabled: true
+      std: [5.0, 14.0]
+    scratches:
+      enabled: true
+      count: [3, 8]
+      length_range: [30, 160]
+      intensity: [0.25, 0.55]
+    fibrous_texture:
+      enabled: true
+      strength: [0.25, 0.50]
+    stroke_fading:
+      enabled: true
+      prob: 0.5
+      erosion_iters: 1
+    speckles:
+      enabled: true
+      count: [6, 18]
+      radius: [1, 3]
+    geometric:
+      rotation: [-1.5, 1.5]
+      shear: [-0.02, 0.02]
+
+  HEAVY:
+    description: "Severely degraded leaf with deep scratches, stroke fading, and strong illumination variance"
+    illumination_gradient:
+      enabled: true
+      strength: [0.30, 0.60]
+    contrast:
+      factor: [0.55, 0.85]
+    brightness:
+      factor: [0.70, 1.25]
+    gaussian_blur:
+      enabled: true
+      sigma: [0.8, 1.8]
+    motion_blur:
+      enabled: true
+      prob: 0.6
+      kernel_size: [5, 7]
+    noise:
+      enabled: true
+      std: [10.0, 22.0]
+    scratches:
+      enabled: true
+      count: [6, 16]
+      length_range: [50, 280]
+      intensity: [0.40, 0.75]
+    fibrous_texture:
+      enabled: true
+      strength: [0.40, 0.70]
+    stroke_fading:
+      enabled: true
+      prob: 0.8
+      erosion_iters: [1, 2]
+    speckles:
+      enabled: true
+      count: [15, 35]
+      radius: [1, 4]
+    geometric:
+      rotation: [-2.2, 2.2]
+      shear: [-0.035, 0.035]
+
+  EXTREME:
+    description: "Extreme degradation near OCR limit: high noise, deep stains, and severe stroke erosion"
+    illumination_gradient:
+      enabled: true
+      strength: [0.45, 0.75]
+    contrast:
+      factor: [0.40, 0.75]
+    brightness:
+      factor: [0.60, 1.35]
+    gaussian_blur:
+      enabled: true
+      sigma: [1.2, 2.2]
+    motion_blur:
+      enabled: true
+      prob: 0.8
+      kernel_size: [5, 9]
+    noise:
+      enabled: true
+      std: [15.0, 30.0]
+    scratches:
+      enabled: true
+      count: [10, 25]
+      length_range: [80, 400]
+      intensity: [0.55, 0.90]
+    fibrous_texture:
+      enabled: true
+      strength: [0.55, 0.85]
+    stroke_fading:
+      enabled: true
+      prob: 0.95
+      erosion_iters: 2
+    speckles:
+      enabled: true
+      count: [25, 55]
+      radius: [2, 5]
+    geometric:
+      rotation: [-3.0, 3.0]
+      shear: [-0.05, 0.05]
+
+  LOW_CONTRAST:
+    description: "Faded ink with low optical density relative to background"
+    contrast:
+      factor: [0.35, 0.55]
+    brightness:
+      factor: [0.90, 1.10]
+    fibrous_texture:
+      enabled: true
+      strength: [0.25, 0.40]
+
+  SHADOWED:
+    description: "Non-uniform shadow casting across the leaf width"
+    illumination_gradient:
+      enabled: true
+      strength: [0.50, 0.80]
+    contrast:
+      factor: [0.65, 0.90]
+
+  SCRATCHED:
+    description: "Heavy horizontal and cross incisions mimicking stylus damage"
+    scratches:
+      enabled: true
+      count: [12, 28]
+      length_range: [60, 350]
+      intensity: [0.50, 0.85]

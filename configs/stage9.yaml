@@ -1,0 +1,41 @@
+# Stage 9: Confidence Second Pass & Tamil Post-Correction Configuration
+
+model:
+  checkpoint_path: "models/checkpoints/stage8/best_tamil_crnn.pth"
+  pretrained_fallback: "models/pretrained/tamil_pretrained.pth"
+  in_channels: 1
+  hidden_size: 512
+  num_class: 143
+
+confidence:
+  # Threshold determined from synthetic validation split analysis
+  # Lines with confidence >= threshold are accepted without second pass
+  configured_threshold: 0.85
+  # Threshold below which candidates are flagged as ambiguous if within margin
+  ambiguity_margin: 0.025
+  # Floor below which predictions are unconditionally marked REVIEW_REQUIRED
+  review_floor: 0.50
+
+reprocessing:
+  default_pipeline: "raw"
+  candidate_pipelines:
+    - "raw"
+    - "pipeline_a_clahe"
+    - "pipeline_c_illum_clahe"
+    - "pipeline_d_sauvola_deskew"
+
+post_correction:
+  enabled: true
+  nfc_normalization: true
+  whitespace_cleanup: true
+  combining_mark_reattachment: true
+  deduplicate_combining_marks: true
+
+evaluation:
+  datasets:
+    synthetic_val: "data/synthetic/synthetic_val.jsonl"
+    synthetic_test: "data/synthetic/synthetic_test.jsonl"
+    external_test_cict: "data/splits/external_test.jsonl" # Strictly held-out benchmark
+  output_dirs:
+    metrics: "results/metrics/confidence"
+    predictions: "results/predictions/second_pass"

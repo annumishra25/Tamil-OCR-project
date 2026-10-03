@@ -1,0 +1,9 @@
+# Stage 8 Zero-Shot Baseline Configuration
+experiment_name: "stage8_zero_shot_baseline"
+model_architecture: "easyocr_tamil_crnn"
+vocab_size: 142
+
+paths:
+  external_test_jsonl: "data/splits/external_test.jsonl"
+  synthetic_test_jsonl: "data/synthetic/synthetic_test.jsonl"
+  results_csv: "results/metrics/stage8_baseline_results.csv"

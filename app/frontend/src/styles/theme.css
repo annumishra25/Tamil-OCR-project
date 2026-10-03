@@ -1,0 +1,255 @@
+/* Tamil Palm-Leaf Manuscript Digitization Laboratory Theme */
+
+:root {
+  /* Color Palette - Historical Manuscript Laboratory */
+  --bg-primary: #12100e;
+  --bg-secondary: #1a1613;
+  --bg-card: rgba(29, 25, 22, 0.85);
+  --bg-card-hover: rgba(38, 33, 29, 0.95);
+  --bg-glass: rgba(22, 19, 16, 0.65);
+  --bg-elevated: #241e1a;
+  
+  /* Palm-leaf, Ochre, Gold & Terracotta accents */
+  --accent-gold: #d4af37;
+  --accent-gold-glow: rgba(212, 175, 55, 0.25);
+  --accent-ochre: #c29b38;
+  --accent-terracotta: #a8422b;
+  --accent-vermilion: #d9532f;
+  --accent-jade: #2e7d5a;
+  --accent-jade-glow: rgba(46, 125, 90, 0.25);
+  --accent-amber: #e6a122;
+
+  /* Parchment & Text colors */
+  --text-primary: #f5efe6;
+  --text-secondary: #c4b9a8;
+  --text-muted: #8a7e70;
+  --text-gold: #f0c961;
+  --text-tamil: #fcf8f2;
+
+  /* Borders & Dividers */
+  --border-subtle: rgba(194, 155, 56, 0.18);
+  --border-bright: rgba(212, 175, 55, 0.45);
+  --border-card: rgba(255, 255, 255, 0.07);
+
+  /* Fonts */
+  --font-display: 'Cinzel', serif;
+  --font-body: 'Outfit', sans-serif;
+  --font-tamil: 'Noto Serif Tamil', 'Noto Sans Tamil', serif;
+  --font-tamil-sans: 'Noto Sans Tamil', sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+
+  /* Transitions & Shadows */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.6);
+  --shadow-gold: 0 0 20px rgba(212, 175, 55, 0.15);
+  --transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  min-height: 100vh;
+  background-image: 
+    radial-gradient(circle at 15% 15%, rgba(212, 175, 55, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 85% 85%, rgba(168, 66, 43, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 50% 50%, rgba(26, 22, 19, 0.5) 0%, transparent 100%);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-ochre);
+}
+
+/* Typography Classes */
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.03em;
+}
+
+.font-tamil {
+  font-family: var(--font-tamil);
+  line-height: 1.8;
+}
+
+.text-gold {
+  color: var(--accent-gold);
+}
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+/* Glassmorphic Container */
+.glass-panel {
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+}
+
+.glass-panel:hover {
+  border-color: var(--border-bright);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: var(--transition);
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #d4af37, #b8860b);
+  color: #12100e;
+  font-weight: 600;
+  box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, #f0c961, #d4af37);
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.45);
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  border: 1px solid var(--border-subtle);
+}
+.btn-secondary:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+.btn-terracotta {
+  background: linear-gradient(135deg, #a8422b, #8a3420);
+  color: #fff;
+}
+.btn-terracotta:hover {
+  background: linear-gradient(135deg, #c25036, #a8422b);
+}
+
+.btn-sm {
+  padding: 6px 14px;
+  font-size: 0.85rem;
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge-demo {
+  background: rgba(230, 161, 34, 0.15);
+  color: #f3b038;
+  border: 1px solid rgba(230, 161, 34, 0.4);
+}
+
+.badge-success {
+  background: rgba(46, 125, 90, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(46, 125, 90, 0.4);
+}
+
+.badge-danger {
+  background: rgba(168, 66, 43, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(168, 66, 43, 0.4);
+}
+
+.badge-neutral {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
+}
+
+/* Grid & Layout Helpers */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 24px 28px;
+}
+
+.grid-cols-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.grid-cols-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.grid-cols-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 1024px) {
+  .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .grid-cols-2, .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+  .main-content {
+    padding: 16px;
+  }
+}

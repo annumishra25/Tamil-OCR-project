@@ -1,0 +1,134 @@
+[
+  {
+    "experiment_id": "EXP-A",
+    "experiment_name": "Pretrained TamilCRNN + Raw",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Pretrained Baseline",
+    "sample_count": 35,
+    "mean_cer": 0.999,
+    "mean_wer": 1.0,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 62.17
+  },
+  {
+    "experiment_id": "EXP-B",
+    "experiment_name": "Pretrained TamilCRNN + Pipeline C (Illum+CLAHE)",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Pretrained Baseline",
+    "sample_count": 35,
+    "mean_cer": 0.9985,
+    "mean_wer": 1.0,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 29.13
+  },
+  {
+    "experiment_id": "EXP-C",
+    "experiment_name": "Fine-Tuned TamilCRNN + Raw",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Stage 8 Fine-Tuned",
+    "sample_count": 35,
+    "mean_cer": 0.1276,
+    "mean_wer": 0.4824,
+    "exact_match_pct": 31.43,
+    "mean_latency_ms": 26.66
+  },
+  {
+    "experiment_id": "EXP-D",
+    "experiment_name": "Fine-Tuned TamilCRNN + Pipeline C (Illum+CLAHE)",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Stage 8 Fine-Tuned",
+    "sample_count": 35,
+    "mean_cer": 0.1211,
+    "mean_wer": 0.5133,
+    "exact_match_pct": 31.43,
+    "mean_latency_ms": 28.4
+  },
+  {
+    "experiment_id": "EXP-E",
+    "experiment_name": "Fine-Tuned + Confidence Second Pass",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Stage 9 Pipeline",
+    "sample_count": 35,
+    "mean_cer": 0.1156,
+    "mean_wer": 0.5181,
+    "exact_match_pct": 34.29,
+    "mean_latency_ms": 80.63
+  },
+  {
+    "experiment_id": "EXP-F",
+    "experiment_name": "Fine-Tuned + Second Pass + Tamil Correction",
+    "dataset_name": "Synthetic Test (N=35)",
+    "model_type": "Stage 10 Full Pipeline",
+    "sample_count": 35,
+    "mean_cer": 0.1178,
+    "mean_wer": 0.5038,
+    "exact_match_pct": 34.29,
+    "mean_latency_ms": 82.58
+  },
+  {
+    "experiment_id": "EXP-A",
+    "experiment_name": "Pretrained TamilCRNN + Raw",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Pretrained Baseline",
+    "sample_count": 23,
+    "mean_cer": 1.938,
+    "mean_wer": 1.0435,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 40.32
+  },
+  {
+    "experiment_id": "EXP-B",
+    "experiment_name": "Pretrained TamilCRNN + Pipeline C (Illum+CLAHE)",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Pretrained Baseline",
+    "sample_count": 23,
+    "mean_cer": 2.4445,
+    "mean_wer": 1.087,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 29.09
+  },
+  {
+    "experiment_id": "EXP-C",
+    "experiment_name": "Fine-Tuned TamilCRNN + Raw",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Stage 8 Fine-Tuned",
+    "sample_count": 23,
+    "mean_cer": 2.963,
+    "mean_wer": 1.3689,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 29.36
+  },
+  {
+    "experiment_id": "EXP-D",
+    "experiment_name": "Fine-Tuned TamilCRNN + Pipeline C (Illum+CLAHE)",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Stage 8 Fine-Tuned",
+    "sample_count": 23,
+    "mean_cer": 2.0434,
+    "mean_wer": 1.136,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 31.01
+  },
+  {
+    "experiment_id": "EXP-E",
+    "experiment_name": "Fine-Tuned + Confidence Second Pass",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Stage 9 Pipeline",
+    "sample_count": 23,
+    "mean_cer": 1.4112,
+    "mean_wer": 1.1189,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 113.64
+  },
+  {
+    "experiment_id": "EXP-F",
+    "experiment_name": "Fine-Tuned + Second Pass + Tamil Correction",
+    "dataset_name": "CICT GT-133 Real External Test (N=23)",
+    "model_type": "Stage 10 Full Pipeline",
+    "sample_count": 23,
+    "mean_cer": 1.3701,
+    "mean_wer": 1.0957,
+    "exact_match_pct": 0.0,
+    "mean_latency_ms": 113.57
+  }
+]

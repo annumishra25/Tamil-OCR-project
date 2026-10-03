@@ -1,0 +1,4 @@
+model,architecture,hardware,lines_evaluated,cer,wer,confidence_available,zero_shot_status
+EasyOCR (Tamil),PyTorch (CRAFT + CRNN),CUDA (RTX 4050),23,95.78% (0.9578),133.25% (1.3325),YES,EVALUATED
+Tesseract OCR (Tamil / tam.traineddata),LSTM + CTC,CPU,23,NOT_RUN (Tesseract Windows binary not bundled),NOT_RUN,YES (Word-level),INVESTIGATED
+Indic TrOCR (ViT + Transformer Decoder),Vision-Encoder-Decoder,CUDA (RTX 4050),23,Pending Domain Adaptation,Pending Domain Adaptation,YES (Softmax Token Entropy),SELECTED_FOR_FINETUNING

@@ -1,0 +1,38 @@
+{
+  "stage": "Stage 6 Training-Pair Formulation & Splits",
+  "data_hierarchy": {
+    "Level_1_Pretrained_OCR": "Indic TrOCR / EasyOCR Tamil (Weights & Lexicon available)",
+    "Level_2_Character_Data": {
+      "dataset": "palmleaf-tamil",
+      "count": 7100,
+      "classes": 71,
+      "role": "CHARACTER_LEVEL / Pre-adaptation & Glyph Morphology"
+    },
+    "Level_3_Supervised_Lines": {
+      "dataset": "CICT-PLM-GT-133",
+      "count": 23,
+      "role": "LINE_LEVEL / EXTERNAL GOLD STANDARD BENCHMARK",
+      "label_status": "VERIFIED_GROUND_TRUTH"
+    },
+    "Level_4_Synthetic_Lines": {
+      "status": "Scheduled for Stage 7",
+      "role": "LINE_LEVEL / Physics-degraded Tamil palm-leaf synthesis"
+    },
+    "Level_5_Unlabeled_Folios": {
+      "dataset": "THPLMD",
+      "folios_count": 158,
+      "auto_candidate_lines_count": 46,
+      "role": "FOLIO_LEVEL / Unlabeled Visual Adaptation & Preprocessing Reference"
+    }
+  },
+  "total_manifest_records": 7327,
+  "splits_summary": {
+    "train_jsonl_count": 0,
+    "val_jsonl_count": 0,
+    "test_jsonl_count": 0,
+    "external_test_jsonl_count": 23,
+    "character_pool_count": 7100,
+    "unlabeled_pool_count": 204
+  },
+  "iiit_tamil_status": "NOT_AVAILABLE_LOCALLY (External/Awaiting)"
+}
