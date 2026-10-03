@@ -1,0 +1,229 @@
+{
+  "schemaVersion": "1.0",
+  "id": "CICT-PLM-GT-133",
+  "version": "1.0",
+  "lineBands": [
+    0.196,
+    0.2652,
+    0.3344,
+    0.4036,
+    0.4728,
+    0.542,
+    0.6112,
+    0.6804,
+    0.7496,
+    0.8188,
+    0.888
+  ],
+  "issued": "2026-07-16",
+  "lastRevised": "2026-07-16",
+  "verificationStatus": "single-pass",
+  "work": {
+    "title": "Tirukkural",
+    "titleTamil": "திருக்குறள்",
+    "author": "Thiruvalluvar",
+    "authorTamil": "திருவள்ளுவர்"
+  },
+  "chapter": {
+    "number": 133,
+    "title": "The Joys of Temporary Variance",
+    "titleTamil": "ஊடலுவகை",
+    "section": "இன்பம்",
+    "sectionTitle": "Love (Iṉbam)",
+    "subsection": "கற்பியல்",
+    "subsectionTitle": "Wedded Love (Kaṟpiyal)",
+    "subsectionNote": "Chapter 133 (ஊடலுவகை, The Joys of Temporary Variance) is the eighteenth and final chapter of கற்பியல், of காமத்துப்பால், and of the Tirukkural entire. It closes the work on the sweetness of lovers' quarrels: though he be blameless, sulking has its own way of drawing out his tenderness (K1321); the little grief born of pouting makes even fading love gain in dignity (K1322); is there a heaven beyond sulking, for those blended as earth with water? (K1323); sweeter than eating is having eaten — and sweeter than union is the sulking (K1326); those who lose in the sulk are the winners, as the reunion shows (K1327); and the last couplet of the Kural: 'sulking is the joy of love; and love's joy is to be clasped in reunion' (K1330)."
+  },
+  "kuralRange": {
+    "from": 1321,
+    "to": 1330
+  },
+  "folioSequence": [
+    1321,
+    1322,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    1328,
+    1329,
+    1330
+  ],
+  "image": {
+    "filename": "https://zenodo.org/api/iiif/record:21337086:20217_135.jpg/full/1200,/0/default.jpg",
+    "fullResolution": "https://zenodo.org/api/iiif/record:21337086:20217_135.jpg/full/full/0/default.jpg",
+    "width": 2762,
+    "height": 459,
+    "unit": "px"
+  },
+  "iiifManifest": "https://zenodo.org/api/iiif/record:21337086/manifest",
+  "iiifImage": "https://zenodo.org/api/iiif/record:21337086:20217_135.jpg/info.json",
+  "iiifVersion": "3.0",
+  "permalink": "https://zenodo.org/records/21337086",
+  "doi": "10.5281/zenodo.21337086",
+  "conceptDoi": "10.5281/zenodo.21337085",
+  "scribeId": null,
+  "sourceInstitution": "Central Institute of Classical Tamil (CICT)",
+  "hostingInstitution": "Central Institute of Classical Tamil (CICT)",
+  "manuscriptId": "20217_135",
+  "script": "Tamil",
+  "material": "Palm leaf (பனை ஓலை)",
+  "license": "CC BY 4.0",
+  "contributor": "Central Institute of Classical Tamil (CICT)",
+  "dataCurator": {
+    "displayName": "Kannan Krishnan",
+    "givenName": "Kannan",
+    "patronymic": "Krishnan",
+    "affiliation": "Central Institute of Classical Tamil (CICT)",
+    "role": "Data Curator",
+    "zenodoFormName": "Kannan Krishnan"
+  },
+  "researchers": [
+    {
+      "name": "Mohammed Shameem J",
+      "affiliation": "SRM Institute of Science and Technology (SRMIST), Ramapuram",
+      "role": "Researcher"
+    },
+    {
+      "name": "Hariyanka D",
+      "affiliation": "SRM Institute of Science and Technology (SRMIST), Ramapuram",
+      "role": "Researcher"
+    },
+    {
+      "name": "Dinesh Shanmugavel",
+      "affiliation": "SRM Institute of Science and Technology (SRMIST), Ramapuram",
+      "role": "Researcher"
+    }
+  ],
+  "publicationDate": "2026-07-13",
+  "publisher": "Zenodo",
+  "lines": [
+    {
+      "id": "L1",
+      "leftMargin": "",
+      "body": "இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா",
+      "highlights": [],
+      "endChar": "று",
+      "kural": 1321,
+      "numeral": "௧"
+    },
+    {
+      "id": "L2",
+      "leftMargin": "",
+      "body": "ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு",
+      "highlights": [],
+      "endChar": "ம",
+      "kural": 1322,
+      "numeral": "௨"
+    },
+    {
+      "id": "L3",
+      "leftMargin": "",
+      "body": "புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த்",
+      "highlights": [],
+      "endChar": "து",
+      "kural": 1323,
+      "numeral": "௩"
+    },
+    {
+      "id": "L4",
+      "leftMargin": "ஊட",
+      "body": "புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும்",
+      "highlights": [],
+      "endChar": "படை",
+      "kural": 1324,
+      "numeral": "௪"
+    },
+    {
+      "id": "L5",
+      "leftMargin": "லுவகை",
+      "body": "தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத்",
+      "highlights": [],
+      "endChar": "து",
+      "kural": 1325,
+      "numeral": "௫"
+    },
+    {
+      "id": "L6",
+      "leftMargin": "",
+      "body": "உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி",
+      "highlights": [],
+      "endChar": "து",
+      "kural": 1326,
+      "numeral": "௬"
+    },
+    {
+      "id": "L7",
+      "leftMargin": "௮௰௭",
+      "body": "உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு",
+      "highlights": [],
+      "endChar": "ம்",
+      "kural": 1327,
+      "numeral": "௭"
+    },
+    {
+      "id": "L8",
+      "leftMargin": "",
+      "body": "உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப்",
+      "highlights": [],
+      "endChar": "பு",
+      "kural": 1328,
+      "numeral": "௮"
+    },
+    {
+      "id": "L9",
+      "leftMargin": "",
+      "body": "உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர",
+      "highlights": [],
+      "endChar": "ர்",
+      "kural": 1329,
+      "numeral": "௯"
+    },
+    {
+      "id": "L10",
+      "leftMargin": "",
+      "body": "உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி",
+      "highlights": [],
+      "endChar": "ன்",
+      "kural": 1330,
+      "numeral": "௰"
+    }
+  ],
+  "zones": {
+    "leftMargin": {
+      "title": "Left Margin Zone",
+      "description": "<strong>TWO-CELL TITLE + LEAF NUMERAL</strong>: L4 <code>ஊட</code>, L5 <code>லுவகை</code> spell the title ஊடலுவகை; L7 carries the leaf numeral <code>௮௰௭</code> (87), written in the scribe's letter-like numeral hand as <em>அயஎ</em> (எ ≈ ௭; see GT-130's note) — <strong>the last leaf of the manuscript</strong>, standing in its correct final position (see the codicological note)."
+    },
+    "mainBody": {
+      "title": "Main Body Zone",
+      "description": "<strong>Folio order [1321, 1322, 1323, 1324, 1325, 1326, 1327, 1328, 1329, 1330]</strong> — uniquely in this corpus the closing leaf runs in <strong>straight canonical sequence</strong>, ending with K1330, the last couplet of the Tirukkural. <strong>ஊ-for-உ</strong>: the keyword ஊடல் is written <code>உளடல்</code> through L7-L10. <strong>ந-for-ன</strong>: <code>துமநநுங்</code> (L7), <code>மந்நொ</code> (L9, மன்னோ), <code>லிநிது</code> (L6, இனிது). <strong>scribal</strong>: <code>பத்தேணுடுண்டோ</code> for புத்தேள்நாடு உண்டோ (L3); the rare grantha <code>ஷ</code> appears in <code>ஷப்பு</code> for உப்பு (L8)."
+    },
+    "rightNumeral": {
+      "title": "Right Numeral Zone",
+      "description": "Tamil numerals ௧–௰ across the ten lines of this recto leaf (no. 87) — the final leaf. The ௰ (10) on L10 marks the 1,330th and last couplet of the Tirukkural."
+    }
+  },
+  "paleographicNotes": [
+    {
+      "label": "Two-cell title + leaf numeral — ஊட|லுவகை · ௮௰௭",
+      "text": "The title ஊடலுவகை is split across two left-margin cells L4-L5, with the leaf numeral ௮௰௭ (87) at L7 — written in the scribe's letter-like numeral hand as அயஎ (எ ≈ ௭; see GT-130's note) and normalised here. Corroborated by the image index _135 = 2 × 87 − 39."
+    },
+    {
+      "label": "Straight folio order — the only such leaf in the corpus",
+      "text": "Alone among the 133 specimens, this closing leaf sets its ten couplets in <strong>straight canonical sequence</strong> (1321-1330) rather than the shuffled per-leaf order found throughout the rest of the manuscript — a fitting regularity for the final leaf of the work."
+    },
+    {
+      "label": "ஊ-for-உ and the grantha ஷ",
+      "text": "The chapter's keyword ஊடல் is written உளடல் through L7-L10, and the ன→ந habit persists (துமநநுங் L7, மந்நொ L9). Note the rare grantha ஷ in ஷப்பு for உப்பு (L8)."
+    },
+    {
+      "label": "★ Codicology resolved: a reversed sub-gathering (leaves 81-86)",
+      "text": "With the final leaf in hand, the disarrangement first noticed at GT-122 is fully mapped. <strong>Leaves 81-86 were rebound in reverse</strong>: leaf 86 carries chs 121/122, 85 → 123/124, 84 → 125/126, 83 → 127/128, 82 → 129/130 and 81 → 131/132 — each leaf holding the earlier chapter on its verso and the later on its recto. <strong>Leaf 87, the last leaf, kept its correct place</strong>, carrying chapter 133. The Zenodo image indices corroborate throughout (recto-index = 2 × leaf − 39, verso = recto + 1): _134…_123 across the reversed six, and _135 for leaf 87."
+    },
+    {
+      "label": "★★ TIRUKKURAL COMPLETE — 133 chapters / 1,329 of 1,330 kurals",
+      "text": "GT-133 completes the corpus: <strong>all 133 chapters</strong> (அறத்துப்பால் 1-38, பொருட்பால் 39-108, காமத்துப்பால் 109-133) and <strong>1,329 of the 1,330 kurals</strong>, contiguous from கடவுள் வாழ்த்து to this closing couplet. The one absent couplet is K1127, omitted by the scribe on GT-113 and flagged there as <i>விடுபாடு</i> in the source itself. The whole Tirukkural now stands as an aligned, line-banded, paleographically annotated ground-truth corpus for Tamil-script HTR."
+    }
+  ]
+}

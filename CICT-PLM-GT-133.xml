@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>CICT Digital Library · Central Institute of Classical Tamil</Creator>
+    <Created>2026-10-03T13:19:34.444Z</Created>
+    <LastChange>2026-10-03T13:19:34.444Z</LastChange>
+    <Comments>CICT-PLM-GT-133 · Tirukkural Chapter 133 (ஊடலுவகை) · CC BY 4.0</Comments>
+  </Metadata>
+  <Page imageFilename="CICT-PLM-GT-133.jpg" imageWidth="2762" imageHeight="459">
+    <TextRegion id="region_left" type="marginalia" custom="structure {type:left-margin;}">
+      <Coords points="20,20 303,20 303,439 20,439"/>
+      <TextLine id="line_left_L4">
+        <Coords points="30,153 290,153 290,190 30,190"/>
+        <Baseline points="30,186 290,186"/>
+        <TextEquiv><Unicode>ஊட</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_left_L5">
+        <Coords points="30,194 290,194 290,231 30,231"/>
+        <Baseline points="30,227 290,227"/>
+        <TextEquiv><Unicode>லுவகை</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_left_L7">
+        <Coords points="30,276 290,276 290,313 30,313"/>
+        <Baseline points="30,309 290,309"/>
+        <TextEquiv><Unicode>௮௰௭</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_body" type="paragraph" custom="structure {type:main-body;}">
+      <Coords points="331,20 2513,20 2513,439 331,439"/>
+      <TextLine id="line_body_L1">
+        <Coords points="359,30 2499,30 2499,67 359,67"/>
+        <Baseline points="359,63 2499,63"/>
+        <TextEquiv><Unicode>இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L2">
+        <Coords points="359,71 2499,71 2499,108 359,108"/>
+        <Baseline points="359,104 2499,104"/>
+        <TextEquiv><Unicode>ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L3">
+        <Coords points="359,112 2499,112 2499,149 359,149"/>
+        <Baseline points="359,145 2499,145"/>
+        <TextEquiv><Unicode>புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L4">
+        <Coords points="359,153 2499,153 2499,190 359,190"/>
+        <Baseline points="359,186 2499,186"/>
+        <TextEquiv><Unicode>புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L5">
+        <Coords points="359,194 2499,194 2499,231 359,231"/>
+        <Baseline points="359,227 2499,227"/>
+        <TextEquiv><Unicode>தவரிலநாயினுந்தா  மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L6">
+        <Coords points="359,235 2499,235 2499,272 359,272"/>
+        <Baseline points="359,268 2499,268"/>
+        <TextEquiv><Unicode>உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L7">
+        <Coords points="359,276 2499,276 2499,313 359,313"/>
+        <Baseline points="359,309 2499,309"/>
+        <TextEquiv><Unicode>உளடலிற் றேற்றுவ ரவென்றார்  துமநநுங் கூடலிற் காணப்படு ம்</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L8">
+        <Coords points="359,317 2499,317 2499,354 359,354"/>
+        <Baseline points="359,350 2499,350"/>
+        <TextEquiv><Unicode>உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக்  கடலிற றேனறிய      ஷப் பு</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L9">
+        <Coords points="359,358 2499,358 2499,395 359,395"/>
+        <Baseline points="359,391 2499,391"/>
+        <TextEquiv><Unicode>உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_body_L10">
+        <Coords points="359,399 2499,399 2499,436 359,436"/>
+        <Baseline points="359,432 2499,432"/>
+        <TextEquiv><Unicode>உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப்  பெறி ன்</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_right" type="marginalia" custom="structure {type:right-numeral;}">
+      <Coords points="2541,20 2742,20 2742,439 2541,439"/>
+      <TextLine id="line_right_L1">
+        <Coords points="2554,30 2732,30 2732,67 2554,67"/>
+        <Baseline points="2554,63 2732,63"/>
+        <TextEquiv><Unicode>௧</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L2">
+        <Coords points="2554,71 2732,71 2732,108 2554,108"/>
+        <Baseline points="2554,104 2732,104"/>
+        <TextEquiv><Unicode>௨</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L3">
+        <Coords points="2554,112 2732,112 2732,149 2554,149"/>
+        <Baseline points="2554,145 2732,145"/>
+        <TextEquiv><Unicode>௩</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L4">
+        <Coords points="2554,153 2732,153 2732,190 2554,190"/>
+        <Baseline points="2554,186 2732,186"/>
+        <TextEquiv><Unicode>௪</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L5">
+        <Coords points="2554,194 2732,194 2732,231 2554,231"/>
+        <Baseline points="2554,227 2732,227"/>
+        <TextEquiv><Unicode>௫</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L6">
+        <Coords points="2554,235 2732,235 2732,272 2554,272"/>
+        <Baseline points="2554,268 2732,268"/>
+        <TextEquiv><Unicode>௬</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L7">
+        <Coords points="2554,276 2732,276 2732,313 2554,313"/>
+        <Baseline points="2554,309 2732,309"/>
+        <TextEquiv><Unicode>௭</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L8">
+        <Coords points="2554,317 2732,317 2732,354 2554,354"/>
+        <Baseline points="2554,350 2732,350"/>
+        <TextEquiv><Unicode>௮</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L9">
+        <Coords points="2554,358 2732,358 2732,395 2554,395"/>
+        <Baseline points="2554,391 2732,391"/>
+        <TextEquiv><Unicode>௯</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="line_right_L10">
+        <Coords points="2554,399 2732,399 2732,436 2554,436"/>
+        <Baseline points="2554,432 2732,432"/>
+        <TextEquiv><Unicode>௰</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,140 @@
+sample_id,dataset,ground_truth,prediction,cer,wer,exact_match,confidence,latency_ms,image_path
+SYNTH_TEST_00186,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,௹99௷௭9@9,1.0,1.0,False,0.9226,819.5,data/synthetic/degraded/SYNTH_TEST_00186_degraded.png
+SYNTH_TEST_00187,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,"[]_`""``'[2௴",1.0,1.0,False,0.6621,57.17,data/synthetic/degraded/SYNTH_TEST_00187_degraded.png
+SYNTH_TEST_00188,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,99௭9௹௷௷,1.0,1.0,False,0.9447,47.34,data/synthetic/degraded/SYNTH_TEST_00188_degraded.png
+SYNTH_TEST_00189,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,9௱9,1.0,1.0,False,0.9469,41.49,data/synthetic/degraded/SYNTH_TEST_00189_degraded.png
+SYNTH_TEST_00190,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,௪௹௹௱99,1.0,1.0,False,0.8683,18.52,data/synthetic/degraded/SYNTH_TEST_00190_degraded.png
+SYNTH_TEST_00191,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,[௸௱,1.0,1.0,False,0.9231,39.28,data/synthetic/degraded/SYNTH_TEST_00191_degraded.png
+SYNTH_TEST_00192,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,99௭9௹௷௷,1.0,1.0,False,0.979,54.05,data/synthetic/degraded/SYNTH_TEST_00192_degraded.png
+SYNTH_TEST_00193,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,௰௰௭9௪௸௷9`98,1.0,1.0,False,0.8092,36.1,data/synthetic/degraded/SYNTH_TEST_00193_degraded.png
+SYNTH_TEST_00194,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,"9௳9]9""9",1.0,1.0,False,0.8184,46.92,data/synthetic/degraded/SYNTH_TEST_00194_degraded.png
+SYNTH_TEST_00195,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,9௱99,1.0,1.0,False,0.9583,47.86,data/synthetic/degraded/SYNTH_TEST_00195_degraded.png
+SYNTH_TEST_00196,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,௷௷99௫9,1.0,1.0,False,0.9653,33.24,data/synthetic/degraded/SYNTH_TEST_00196_degraded.png
+SYNTH_TEST_00197,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,௷99௭9௹௷௹,1.0,1.0,False,0.9334,48.5,data/synthetic/degraded/SYNTH_TEST_00197_degraded.png
+SYNTH_TEST_00198,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,]9௹௯௱9,1.0,1.0,False,0.8428,26.06,data/synthetic/degraded/SYNTH_TEST_00198_degraded.png
+SYNTH_TEST_00199,Synthetic Test (35 Lines),நரைவருமென் றெண்ணி நல்லறி வாளர்,ெ9{,0.9667,1.0,False,0.6438,45.7,data/synthetic/degraded/SYNTH_TEST_00199_degraded.png
+SYNTH_TEST_00200,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,௫௹9௫௷9௷,1.0,1.0,False,0.9477,76.05,data/synthetic/degraded/SYNTH_TEST_00200_degraded.png
+SYNTH_TEST_00201,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,9௱9,1.0,1.0,False,0.978,34.41,data/synthetic/degraded/SYNTH_TEST_00201_degraded.png
+SYNTH_TEST_00202,Synthetic Test (35 Lines),தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,9௷௷9௭9௹௷9௷,1.0,1.0,False,0.975,41.59,data/synthetic/degraded/SYNTH_TEST_00202_degraded.png
+SYNTH_TEST_00203,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,௷9௷௭௪,1.0,1.0,False,0.9114,48.39,data/synthetic/degraded/SYNTH_TEST_00203_degraded.png
+SYNTH_TEST_00204,Synthetic Test (35 Lines),நரைவருமென் றெண்ணி நல்லறி வாளர்,3999,1.0,1.0,False,0.8904,41.2,data/synthetic/degraded/SYNTH_TEST_00204_degraded.png
+SYNTH_TEST_00205,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,9௱99,1.0,1.0,False,0.9776,15.38,data/synthetic/degraded/SYNTH_TEST_00205_degraded.png
+SYNTH_TEST_00206,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,௫௹99௫௷9௷94,1.0,1.0,False,0.8909,39.08,data/synthetic/degraded/SYNTH_TEST_00206_degraded.png
+SYNTH_TEST_00207,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,99௭9௹௷௷,1.0,1.0,False,0.9402,46.95,data/synthetic/degraded/SYNTH_TEST_00207_degraded.png
+SYNTH_TEST_00208,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,௫[ஒ9௫௷௷9௷,1.0,1.0,False,0.7973,49.6,data/synthetic/degraded/SYNTH_TEST_00208_degraded.png
+SYNTH_TEST_00209,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,௯9௭9௭94,1.0,1.0,False,0.9528,83.21,data/synthetic/degraded/SYNTH_TEST_00209_degraded.png
+SYNTH_TEST_00210,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,௷௷9ஈ9௫,1.0,1.0,False,0.9155,41.41,data/synthetic/degraded/SYNTH_TEST_00210_degraded.png
+SYNTH_TEST_00211,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,௷௷9௫,1.0,1.0,False,0.9673,19.37,data/synthetic/degraded/SYNTH_TEST_00211_degraded.png
+SYNTH_TEST_00212,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,௫௹99௫௷௷,1.0,1.0,False,0.9898,41.86,data/synthetic/degraded/SYNTH_TEST_00212_degraded.png
+SYNTH_TEST_00213,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,௷௷99௫,1.0,1.0,False,0.9613,13.62,data/synthetic/degraded/SYNTH_TEST_00213_degraded.png
+SYNTH_TEST_00214,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,௷99௭9௹௷௷,1.0,1.0,False,0.9197,49.04,data/synthetic/degraded/SYNTH_TEST_00214_degraded.png
+SYNTH_TEST_00215,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,௹9௫௷௷9,1.0,1.0,False,0.9504,41.39,data/synthetic/degraded/SYNTH_TEST_00215_degraded.png
+SYNTH_TEST_00216,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,9௱9,1.0,1.0,False,0.9926,34.03,data/synthetic/degraded/SYNTH_TEST_00216_degraded.png
+SYNTH_TEST_00217,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,௷99௭௹௷௷,1.0,1.0,False,0.9383,29.99,data/synthetic/degraded/SYNTH_TEST_00217_degraded.png
+SYNTH_TEST_00218,Synthetic Test (35 Lines),தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,9௷௷9௭9௹௷9௷,1.0,1.0,False,0.9831,48.16,data/synthetic/degraded/SYNTH_TEST_00218_degraded.png
+SYNTH_TEST_00219,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,99௭9௮௹௹௷௷௷,1.0,1.0,False,0.9067,47.49,data/synthetic/degraded/SYNTH_TEST_00219_degraded.png
+SYNTH_TEST_00220,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,௷9௷௭9@9,1.0,1.0,False,0.9379,41.14,data/synthetic/degraded/SYNTH_TEST_00220_degraded.png
+CICT_line_left_L4,CICT GT-133 Real External Test (N=23),ஊட,௰9%,1.5,1.0,False,0.4371,32.8,data/processed/cict_gt133_lines/line_001_line_left_L4.png
+CICT_line_left_L5,CICT GT-133 Real External Test (N=23),லுவகை,@@[9&@,1.2,1.0,False,0.8141,20.77,data/processed/cict_gt133_lines/line_002_line_left_L5.png
+CICT_line_left_L7,CICT GT-133 Real External Test (N=23),௮௰௭,௰) )*3,2.0,2.0,False,0.4326,21.87,data/processed/cict_gt133_lines/line_003_line_left_L7.png
+CICT_line_body_L1,CICT GT-133 Real External Test (N=23),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,"ஔ9௩ஓ9௩ஓ9௩ஸ9௪9ஒங9௩ஓ9""ஈ![!௪",1.0,1.0,False,0.6435,78.37,data/processed/cict_gt133_lines/line_004_line_body_L1.png
+CICT_line_body_L2,CICT GT-133 Real External Test (N=23),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,௮9ஏ}9&9;9௱ஓ999&99299999ஒ9&9௮94,1.0,1.0,False,0.7877,48.43,data/processed/cict_gt133_lines/line_005_line_body_L2.png
+CICT_line_body_L3,CICT GT-133 Real External Test (N=23),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,௹.9ஔி999; }9௮999௮9கஉ99999899௮9_9௮,0.9655,1.0,False,0.7795,41.02,data/processed/cict_gt133_lines/line_006_line_body_L3.png
+CICT_line_body_L4,CICT GT-133 Real External Test (N=23),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,"99$,9/9""9$$9&இ99;9^98999௮99ஞ99ஞ௮99ஞ+949்+2ோ",0.9804,1.0,False,0.7159,37.84,data/processed/cict_gt133_lines/line_007_line_body_L4.png
+CICT_line_body_L5,CICT GT-133 Real External Test (N=23),தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,"`9$2}98ஹ99$@$3&83)93.98@)39,!9௮9299>",1.0,1.0,False,0.6369,44.95,data/processed/cict_gt133_lines/line_008_line_body_L5.png
+CICT_line_body_L6,CICT GT-133 Real External Test (N=23),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,ெ 39௮9999.989இ[9௹9999/9௫29&994,1.0,1.0,False,0.7531,38.87,data/processed/cict_gt133_lines/line_009_line_body_L6.png
+CICT_line_body_L7,CICT GT-133 Real External Test (N=23),உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,+9/&949௮ஙஔஇ99-௹999இ@899(,0.9815,1.0,False,0.789,41.02,data/processed/cict_gt133_lines/line_010_line_body_L7.png
+CICT_line_body_L8,CICT GT-133 Real External Test (N=23),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,@@8+௪@ ூ.9[)9௴999 9%'98989+99௮9௹92'4,0.9667,1.0,False,0.6935,41.52,data/processed/cict_gt133_lines/line_011_line_body_L8.png
+CICT_line_body_L9,CICT GT-133 Real External Test (N=23),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,99ிஔ௹9௹9௷9@9௹௷9௷49;ஓ9_99999பஒ99\,0.9796,1.0,False,0.7074,37.07,data/processed/cict_gt133_lines/line_012_line_body_L9.png
+CICT_line_body_L10,CICT GT-133 Real External Test (N=23),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,8,1.0,1.0,False,0.5071,49.38,data/processed/cict_gt133_lines/line_013_line_body_L10.png
+CICT_line_right_L1,CICT GT-133 Real External Test (N=23),௧,3,1.0,1.0,False,0.2985,39.04,data/processed/cict_gt133_lines/line_014_line_right_L1.png
+CICT_line_right_L2,CICT GT-133 Real External Test (N=23),௨,@88>`$,6.0,1.0,False,0.4743,18.19,data/processed/cict_gt133_lines/line_015_line_right_L2.png
+CICT_line_right_L3,CICT GT-133 Real External Test (N=23),௩,=>>8,4.0,1.0,False,0.4092,19.29,data/processed/cict_gt133_lines/line_016_line_right_L3.png
+CICT_line_right_L4,CICT GT-133 Real External Test (N=23),௪,"=""$[",4.0,1.0,False,0.5538,26.7,data/processed/cict_gt133_lines/line_017_line_right_L4.png
+CICT_line_right_L5,CICT GT-133 Real External Test (N=23),௫,@4'``,5.0,1.0,False,0.622,17.0,data/processed/cict_gt133_lines/line_018_line_right_L5.png
+CICT_line_right_L6,CICT GT-133 Real External Test (N=23),௬,`,1.0,1.0,False,0.6625,12.6,data/processed/cict_gt133_lines/line_019_line_right_L6.png
+CICT_line_right_L7,CICT GT-133 Real External Test (N=23),௭,3{,2.0,1.0,False,0.2486,13.9,data/processed/cict_gt133_lines/line_020_line_right_L7.png
+CICT_line_right_L8,CICT GT-133 Real External Test (N=23),௮,\',2.0,1.0,False,0.338,13.92,data/processed/cict_gt133_lines/line_021_line_right_L8.png
+CICT_line_right_L9,CICT GT-133 Real External Test (N=23),௯,"9[,>",4.0,1.0,False,0.6347,17.4,data/processed/cict_gt133_lines/line_022_line_right_L9.png
+CICT_line_right_L10,CICT GT-133 Real External Test (N=23),௰,@,1.0,1.0,False,0.304,18.43,data/processed/cict_gt133_lines/line_023_line_right_L10.png
+SYNTH_TEST_00186,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,கரைவிடை நீின்றார் கொளஇய் த விரைவினேோடு,0.1622,1.0,False,0.9387,37.86,data/synthetic/degraded/SYNTH_TEST_00186_degraded.png
+SYNTH_TEST_00187,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,ஐபகாவர ழமோய பனெகவ்,0.9474,1.0,False,0.4696,32.37,data/synthetic/degraded/SYNTH_TEST_00187_degraded.png
+SYNTH_TEST_00188,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,வேண்டுதல் வேண்டாமை இலானடி் சேர்ந்தார்க்கு,0.025,0.25,False,0.9599,29.02,data/synthetic/degraded/SYNTH_TEST_00188_degraded.png
+SYNTH_TEST_00189,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமும்,0.04,0.3333,False,0.9459,20.8,data/synthetic/degraded/SYNTH_TEST_00189_degraded.png
+SYNTH_TEST_00190,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தராம் என்னா விழுமும்,0.08,0.6667,False,0.9094,21.74,data/synthetic/degraded/SYNTH_TEST_00190_degraded.png
+SYNTH_TEST_00191,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமும்,0.04,0.3333,False,0.9214,20.42,data/synthetic/degraded/SYNTH_TEST_00191_degraded.png
+SYNTH_TEST_00192,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,வண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,0.025,0.25,False,0.9441,34.23,data/synthetic/degraded/SYNTH_TEST_00192_degraded.png
+SYNTH_TEST_00193,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,ஐேணத்ற வேணட ழமை ெலானடி் சர்ற்தாம்தச,0.45,1.25,False,0.7591,30.39,data/synthetic/degraded/SYNTH_TEST_00193_degraded.png
+SYNTH_TEST_00194,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,மாண்டும் ேடும்பன இ்,0.2105,1.0,False,0.8161,19.32,data/synthetic/degraded/SYNTH_TEST_00194_degraded.png
+SYNTH_TEST_00195,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமும்,0.04,0.3333,False,0.952,12.5,data/synthetic/degraded/SYNTH_TEST_00195_degraded.png
+SYNTH_TEST_00196,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,மனக்கவலை மாற்றல் அரிது,0.0,0.0,True,0.9536,32.67,data/synthetic/degraded/SYNTH_TEST_00196_degraded.png
+SYNTH_TEST_00197,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,0.0,0.0,True,0.9389,28.27,data/synthetic/degraded/SYNTH_TEST_00197_degraded.png
+SYNTH_TEST_00198,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறற்ார்ாம் என்னாவிமமம்,0.24,1.0,False,0.7956,20.94,data/synthetic/degraded/SYNTH_TEST_00198_degraded.png
+SYNTH_TEST_00199,Synthetic Test (35 Lines),நரைவருமென் றெண்ணி நல்லறி வாளர்,ஏ்வஎழமவத ெதசஎ சிசல்ைசிவழனர்,0.7,1.0,False,0.5638,22.34,data/synthetic/degraded/SYNTH_TEST_00199_degraded.png
+SYNTH_TEST_00200,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற்,0.0278,0.25,False,0.9518,35.85,data/synthetic/degraded/SYNTH_TEST_00200_degraded.png
+SYNTH_TEST_00201,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமும்,0.04,0.3333,False,0.9218,22.33,data/synthetic/degraded/SYNTH_TEST_00201_degraded.png
+SYNTH_TEST_00202,Synthetic Test (35 Lines),தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,0.0,0.0,True,0.9576,46.81,data/synthetic/degraded/SYNTH_TEST_00202_degraded.png
+SYNTH_TEST_00203,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,கரைவிடை நீின்றார் கொளஇுய விரைவினேோடு,0.1892,1.0,False,0.9204,36.36,data/synthetic/degraded/SYNTH_TEST_00203_degraded.png
+SYNTH_TEST_00204,Synthetic Test (35 Lines),நரைவருமென் றெண்ணி நல்லறி வாளர்,நரைவருமென் றெண்ணிநல்லறி வளர்,0.0667,0.75,False,0.9348,19.5,data/synthetic/degraded/SYNTH_TEST_00204_degraded.png
+SYNTH_TEST_00205,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமம்,0.0,0.0,True,0.9318,18.89,data/synthetic/degraded/SYNTH_TEST_00205_degraded.png
+SYNTH_TEST_00206,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,அறே்செய்யா ராயின் அருற்தார்கு் தகறற்,0.2222,0.75,False,0.897,31.44,data/synthetic/degraded/SYNTH_TEST_00206_degraded.png
+SYNTH_TEST_00207,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,0.0,0.0,True,0.9418,32.61,data/synthetic/degraded/SYNTH_TEST_00207_degraded.png
+SYNTH_TEST_00208,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,அறஞ்ாெயா ராமின் அரந்துார்க குற்ற்,0.2222,1.0,False,0.8555,14.79,data/synthetic/degraded/SYNTH_TEST_00208_degraded.png
+SYNTH_TEST_00209,Synthetic Test (35 Lines),யாண்டும் இடும்பை இல,மாண்டும் இடும்பை் இல்,0.1579,1.0,False,0.893,30.14,data/synthetic/degraded/SYNTH_TEST_00209_degraded.png
+SYNTH_TEST_00210,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,மனக்கவலல மாற்றல் அரிது,0.0455,0.3333,False,0.9374,26.73,data/synthetic/degraded/SYNTH_TEST_00210_degraded.png
+SYNTH_TEST_00211,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,மனக்கவலை மாற்றல் அரிது,0.0,0.0,True,0.9188,25.41,data/synthetic/degraded/SYNTH_TEST_00211_degraded.png
+SYNTH_TEST_00212,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,0.0,0.0,True,0.9502,38.01,data/synthetic/degraded/SYNTH_TEST_00212_degraded.png
+SYNTH_TEST_00213,Synthetic Test (35 Lines),மனக்கவலை மாற்றல் அரிது,மனக்கவலை மாற்றல் அரிது,0.0,0.0,True,0.9668,10.73,data/synthetic/degraded/SYNTH_TEST_00213_degraded.png
+SYNTH_TEST_00214,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,எேண்டுதல வேண்டாமை இலான்டி சேர்ந்தார்க்கு,0.075,0.5,False,0.9376,43.57,data/synthetic/degraded/SYNTH_TEST_00214_degraded.png
+SYNTH_TEST_00215,Synthetic Test (35 Lines),அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,அறஞ்செய்யா ராயின் அருந்துயர்க் குற்ற,0.0,0.0,True,0.9468,26.15,data/synthetic/degraded/SYNTH_TEST_00215_degraded.png
+SYNTH_TEST_00216,Synthetic Test (35 Lines),பிறந்தாராம் என்னா விழுமம்,பிறந்தாராம் என்னா விழுமம்,0.0,0.0,True,0.9674,26.56,data/synthetic/degraded/SYNTH_TEST_00216_degraded.png
+SYNTH_TEST_00217,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,வண்டுதல வேணடாமை இலானடி் சேர்ந்தாரக்கு்,0.15,1.0,False,0.8808,29.33,data/synthetic/degraded/SYNTH_TEST_00217_degraded.png
+SYNTH_TEST_00218,Synthetic Test (35 Lines),தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்,0.0,0.0,True,0.9721,29.91,data/synthetic/degraded/SYNTH_TEST_00218_degraded.png
+SYNTH_TEST_00219,Synthetic Test (35 Lines),வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு,எேணடுதல வேண்டாமை இலான்டிசர்ந்தாரக்க,0.2,0.75,False,0.8825,27.93,data/synthetic/degraded/SYNTH_TEST_00219_degraded.png
+SYNTH_TEST_00220,Synthetic Test (35 Lines),குரைவிடை நின்றார் கொளீஇய – விரைவினோடு,கரைவிடை நின்றார் கொளஇய த விரைவினேோடு,0.1081,0.8,False,0.8926,16.08,data/synthetic/degraded/SYNTH_TEST_00220_degraded.png
+CICT_line_left_L4,CICT GT-133 Real External Test (N=23),ஊட,ஐபலவப்ஆல வ்்,6.0,2.0,False,0.3732,34.28,data/processed/cict_gt133_lines/line_001_line_left_L4.png
+CICT_line_left_L5,CICT GT-133 Real External Test (N=23),லுவகை,ஐதவ,0.8,1.0,False,0.3548,19.38,data/processed/cict_gt133_lines/line_002_line_left_L5.png
+CICT_line_left_L7,CICT GT-133 Real External Test (N=23),௮௰௭,ஐைலல,1.3333,1.0,False,0.3346,10.38,data/processed/cict_gt133_lines/line_003_line_left_L7.png
+CICT_line_body_L1,CICT GT-133 Real External Test (N=23),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,விவுவீிவுலிில்ிவுிண்ிமுிலி,0.7925,1.0,False,0.638,45.52,data/processed/cict_gt133_lines/line_004_line_body_L1.png
+CICT_line_body_L2,CICT GT-133 Real External Test (N=23),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஏவ்ல ுதவ சலண்ல் ல வாளிகதசிணத்ா றாு ்்,0.7692,1.0,False,0.5685,98.01,data/processed/cict_gt133_lines/line_005_line_body_L2.png
+CICT_line_body_L3,CICT GT-133 Real External Test (N=23),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,ஏடடற ேைுார எெர அவிொலலாி் அாட ழம பாெ்ச ் மோடொப்,0.8621,1.2857,False,0.7094,79.3,data/processed/cict_gt133_lines/line_006_line_body_L3.png
+CICT_line_body_L4,CICT GT-133 Real External Test (N=23),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,ஆுல் வுுல் ப ொுெப ளைோாச லவழமாா ோுளமா ெோ்ாேமலடவைு்,0.7647,2.0,False,0.5657,72.79,data/processed/cict_gt133_lines/line_007_line_body_L4.png
+CICT_line_body_L5,CICT GT-133 Real External Test (N=23),தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,ஆலலவடெிப பல்லிட டத ழஎ பஉுிம்்வல்,0.8393,1.0,False,0.5447,66.34,data/processed/cict_gt133_lines/line_008_line_body_L5.png
+CICT_line_body_L6,CICT GT-133 Real External Test (N=23),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,ஓடமினமவ்பி ி மனாமும பளாஎவி வமிச் சாஎா்,0.7826,1.2,False,0.6261,54.26,data/processed/cict_gt133_lines/line_009_line_body_L6.png
+CICT_line_body_L7,CICT GT-133 Real External Test (N=23),உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,ப்ாுடவிட ேரச்றல்டோெவனோ்மாறுஉடடவிமசாவு பட ்பல்,0.7778,1.0,False,0.6845,76.67,data/processed/cict_gt133_lines/line_010_line_body_L7.png
+CICT_line_body_L8,CICT GT-133 Real External Test (N=23),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,ஐதட்பறறமப லண மில்வணபண ுுவுல்ப ோலோா ன்ா்வ்,0.7333,1.0,False,0.5938,57.06,data/processed/cict_gt133_lines/line_011_line_body_L8.png
+CICT_line_body_L9,CICT GT-133 Real External Test (N=23),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,ஏதிகஃ தா்மததமினபமுத ழதிசமட் ே பமம்ு் னாம ொு்,0.8163,1.0,False,0.6161,55.59,data/processed/cict_gt133_lines/line_012_line_body_L9.png
+CICT_line_body_L10,CICT GT-133 Real External Test (N=23),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,எழதட்ழலுசவிிணணலிழ்தணிணிலசல,0.8772,1.0,False,0.3287,46.88,data/processed/cict_gt133_lines/line_013_line_body_L10.png
+CICT_line_right_L1,CICT GT-133 Real External Test (N=23),௧,ஐ,1.0,1.0,False,0.3987,26.41,data/processed/cict_gt133_lines/line_014_line_right_L1.png
+CICT_line_right_L2,CICT GT-133 Real External Test (N=23),௨,ஐ ்தர,5.0,2.0,False,0.2837,18.9,data/processed/cict_gt133_lines/line_015_line_right_L2.png
+CICT_line_right_L3,CICT GT-133 Real External Test (N=23),௩,பட ்க்ழ,7.0,2.0,False,0.3725,33.47,data/processed/cict_gt133_lines/line_016_line_right_L3.png
+CICT_line_right_L4,CICT GT-133 Real External Test (N=23),௪,ஏ்ி் வுண,8.0,2.0,False,0.474,21.37,data/processed/cict_gt133_lines/line_017_line_right_L4.png
+CICT_line_right_L5,CICT GT-133 Real External Test (N=23),௫,எ்க்லழலச,8.0,1.0,False,0.2367,25.77,data/processed/cict_gt133_lines/line_018_line_right_L5.png
+CICT_line_right_L6,CICT GT-133 Real External Test (N=23),௬,ஐ்,2.0,1.0,False,0.2706,12.62,data/processed/cict_gt133_lines/line_019_line_right_L6.png
+CICT_line_right_L7,CICT GT-133 Real External Test (N=23),௭,ஐ ழால,5.0,2.0,False,0.3012,28.69,data/processed/cict_gt133_lines/line_020_line_right_L7.png
+CICT_line_right_L8,CICT GT-133 Real External Test (N=23),௮,ஐ்வ் த்ர,8.0,2.0,False,0.2977,30.43,data/processed/cict_gt133_lines/line_021_line_right_L8.png
+CICT_line_right_L9,CICT GT-133 Real External Test (N=23),௯,ஐசடழ ை,6.0,2.0,False,0.2741,35.46,data/processed/cict_gt133_lines/line_022_line_right_L9.png
+CICT_line_right_L10,CICT GT-133 Real External Test (N=23),௰,ஐ,1.0,1.0,False,0.3887,25.8,data/processed/cict_gt133_lines/line_023_line_right_L10.png
+CICT_line_left_L4,CICT GT-133 Real External Test (N=23),ஊட,ஐளி்ஆு,3.0,1.0,False,0.3724,34.66,data/processed/cict_gt133_lines/line_001_line_left_L4.png
+CICT_line_left_L5,CICT GT-133 Real External Test (N=23),லுவகை,ஐதொு,1.0,1.0,False,0.3514,36.53,data/processed/cict_gt133_lines/line_002_line_left_L5.png
+CICT_line_left_L7,CICT GT-133 Real External Test (N=23),௮௰௭,ஐலல,1.0,1.0,False,0.3363,33.53,data/processed/cict_gt133_lines/line_003_line_left_L7.png
+CICT_line_body_L1,CICT GT-133 Real External Test (N=23),இல்லைத் தவற் வாக்காயினு மூடுதல் வல்லது வாளிக்கு மா று,விீவுவுுவுமுிிம்ிவுிண்ிவுிணி,0.8302,1.0,False,0.639,42.79,data/processed/cict_gt133_lines/line_004_line_body_L1.png
+CICT_line_body_L2,CICT GT-133 Real External Test (N=23),ஊடலிற் றோன்று ஞ்சிறுதுனி நல்லளி வாடினும் பாடு பெறு ம,ஐலில் ல்வணலம் தவாளிகததிகட்ட ு வண்்்,0.75,1.0,False,0.459,62.05,data/processed/cict_gt133_lines/line_005_line_body_L2.png
+CICT_line_body_L3,CICT GT-133 Real External Test (N=23),புலத்தலிற் பத்தேணுடுண்டோ நிலத்தொடு நீரியைந் தன்னூர்க த் து,எடுற ேளரஎெ ர அவிொலலாி் அாட அழ பாெல் மா ட மிப்,0.8621,1.4286,False,0.6678,60.55,data/processed/cict_gt133_lines/line_006_line_body_L3.png
+CICT_line_body_L4,CICT GT-133 Real External Test (N=23),புல்லிவிடாப் புல்வி யுடடோன்றுமெனனுள்ளமுடைக்கும் படை,ஐல வதல ப ொுேப ளைோுலழழமாாோளயா ெோ்ாேமலுு்,0.7843,1.5,False,0.5412,65.55,data/processed/cict_gt133_lines/line_007_line_body_L4.png
+CICT_line_body_L5,CICT GT-133 Real External Test (N=23),தவரிலநாயினுந்தா மவீழவரா மென்றேள் கறலி னுங் கொன்றுடைத் து,அலவடிப டல்சசிட கதவபத ழு ிாவவா,0.8571,1.0,False,0.4764,79.54,data/processed/cict_gt133_lines/line_008_line_body_L5.png
+CICT_line_body_L6,CICT GT-133 Real External Test (N=23),உணலிசநுமுண்டதற்லினிது காமம் புணாதலினூட லிநி து,ஐடபின மத் சாமிக பனானவி வி சாள,0.7174,1.2,False,0.6226,167.76,data/processed/cict_gt133_lines/line_009_line_body_L6.png
+CICT_line_body_L7,CICT GT-133 Real External Test (N=23),உளடலிற் றேற்றுவ ரவென்றார் துமநநுங் கூடலிற் காணப்படு ம்,போுடவிம ும்றல்டோெவைேிாஅமாவுுடவிமனாு படபாுிட,0.7778,1.0,False,0.6372,75.55,data/processed/cict_gt133_lines/line_010_line_body_L7.png
+CICT_line_body_L8,CICT GT-133 Real External Test (N=23),உளடிப் பெருகுவுங் தொல்லொநு துல்வியாப்பக் கடலிற றேனறிய ஷப் பு,ஐகாப்றறவபலண மிலவணுண கலய ோலுய்ல்,0.7833,1.0,False,0.5535,53.35,data/processed/cict_gt133_lines/line_011_line_body_L8.png
+CICT_line_body_L9,CICT GT-133 Real External Test (N=23),உளடுக மந்நொ வொளியிழை யாமிரப்ப நீடுகு மன்னோ விர ர்,ஆமகுஃதடு றின்பம்த ழதிசம்தல மம ுனாபாமு்,0.8367,1.0,False,0.5401,60.62,data/processed/cict_gt133_lines/line_012_line_body_L9.png
+CICT_line_body_L10,CICT GT-133 Real External Test (N=23),உளடுதுல காமத்திற் கின் பமதற் கின்பங் கூடிமுயங்கப் பெறி ன்,எுண்லுலமவிிுுண்ைம்ணிண்லல,0.8421,1.0,False,0.3097,55.17,data/processed/cict_gt133_lines/line_013_line_body_L10.png
+CICT_line_right_L1,CICT GT-133 Real External Test (N=23),௧,ஐ,1.0,1.0,False,0.3895,27.05,data/processed/cict_gt133_lines/line_014_line_right_L1.png
+CICT_line_right_L2,CICT GT-133 Real External Test (N=23),௨,ஐதட்,4.0,1.0,False,0.39,23.75,data/processed/cict_gt133_lines/line_015_line_right_L2.png
+CICT_line_right_L3,CICT GT-133 Real External Test (N=23),௩,மதிசரல,6.0,1.0,False,0.3343,42.19,data/processed/cict_gt133_lines/line_016_line_right_L3.png
+CICT_line_right_L4,CICT GT-133 Real External Test (N=23),௪,ஐைிலணி,6.0,1.0,False,0.3104,26.9,data/processed/cict_gt133_lines/line_017_line_right_L4.png
+CICT_line_right_L5,CICT GT-133 Real External Test (N=23),௫,எம்,3.0,1.0,False,0.3751,26.17,data/processed/cict_gt133_lines/line_018_line_right_L5.png
+CICT_line_right_L6,CICT GT-133 Real External Test (N=23),௬,ஐ,1.0,1.0,False,0.3638,26.75,data/processed/cict_gt133_lines/line_019_line_right_L6.png
+CICT_line_right_L7,CICT GT-133 Real External Test (N=23),௭,ஐத,2.0,1.0,False,0.2197,29.68,data/processed/cict_gt133_lines/line_020_line_right_L7.png
+CICT_line_right_L8,CICT GT-133 Real External Test (N=23),௮,ஐதத்,4.0,1.0,False,0.2374,24.15,data/processed/cict_gt133_lines/line_021_line_right_L8.png
+CICT_line_right_L9,CICT GT-133 Real External Test (N=23),௯,ஐத்,3.0,1.0,False,0.1976,20.83,data/processed/cict_gt133_lines/line_022_line_right_L9.png
+CICT_line_right_L10,CICT GT-133 Real External Test (N=23),௰,ஐ,1.0,1.0,False,0.3594,21.2,data/processed/cict_gt133_lines/line_023_line_right_L10.png

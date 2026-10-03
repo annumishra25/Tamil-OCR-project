@@ -1,0 +1,20 @@
+# Stage 8 Smoke Test Configuration
+experiment_name: "stage8_smoke_test"
+model_architecture: "easyocr_tamil_crnn"
+vocab_size: 143
+seed: 42
+
+training:
+  epochs: 2
+  batch_size: 4
+  gradient_accumulation_steps: 1
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  fp16: true
+  max_train_samples: 16
+  max_val_samples: 8
+
+paths:
+  train_jsonl: "data/synthetic/synthetic_train.jsonl"
+  val_jsonl: "data/synthetic/synthetic_val.jsonl"
+  checkpoint_dir: "models/checkpoints/stage8/smoke"

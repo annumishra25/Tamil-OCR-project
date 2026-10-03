@@ -1,0 +1,13 @@
+experiment_id,experiment_name,dataset_name,model_type,sample_count,mean_cer,mean_wer,exact_match_pct,mean_latency_ms
+EXP-A,Pretrained TamilCRNN + Raw,Synthetic Test (N=35),Pretrained Baseline,35,0.999,1.0,0.0,62.17
+EXP-B,Pretrained TamilCRNN + Pipeline C (Illum+CLAHE),Synthetic Test (N=35),Pretrained Baseline,35,0.9985,1.0,0.0,29.13
+EXP-C,Fine-Tuned TamilCRNN + Raw,Synthetic Test (N=35),Stage 8 Fine-Tuned,35,0.1276,0.4824,31.43,26.66
+EXP-D,Fine-Tuned TamilCRNN + Pipeline C (Illum+CLAHE),Synthetic Test (N=35),Stage 8 Fine-Tuned,35,0.1211,0.5133,31.43,28.4
+EXP-E,Fine-Tuned + Confidence Second Pass,Synthetic Test (N=35),Stage 9 Pipeline,35,0.1156,0.5181,34.29,80.63
+EXP-F,Fine-Tuned + Second Pass + Tamil Correction,Synthetic Test (N=35),Stage 10 Full Pipeline,35,0.1178,0.5038,34.29,82.58
+EXP-A,Pretrained TamilCRNN + Raw,CICT GT-133 Real External Test (N=23),Pretrained Baseline,23,1.938,1.0435,0.0,40.32
+EXP-B,Pretrained TamilCRNN + Pipeline C (Illum+CLAHE),CICT GT-133 Real External Test (N=23),Pretrained Baseline,23,2.4445,1.087,0.0,29.09
+EXP-C,Fine-Tuned TamilCRNN + Raw,CICT GT-133 Real External Test (N=23),Stage 8 Fine-Tuned,23,2.963,1.3689,0.0,29.36
+EXP-D,Fine-Tuned TamilCRNN + Pipeline C (Illum+CLAHE),CICT GT-133 Real External Test (N=23),Stage 8 Fine-Tuned,23,2.0434,1.136,0.0,31.01
+EXP-E,Fine-Tuned + Confidence Second Pass,CICT GT-133 Real External Test (N=23),Stage 9 Pipeline,23,1.4112,1.1189,0.0,113.64
+EXP-F,Fine-Tuned + Second Pass + Tamil Correction,CICT GT-133 Real External Test (N=23),Stage 10 Full Pipeline,23,1.3701,1.0957,0.0,113.57

@@ -1,0 +1,16 @@
+{
+  "total_generated": 220,
+  "split_counts": {
+    "train": 150,
+    "val": 35,
+    "test": 35
+  },
+  "rejected_samples": 0,
+  "elapsed_seconds": 3.8,
+  "base_seed": 42,
+  "clean_lines_count": 50,
+  "fonts_used": [
+    "Nirmala",
+    "Nirmala"
+  ]
+}

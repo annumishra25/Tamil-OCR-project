@@ -1,0 +1,131 @@
+{
+  "status": "COMPLETED",
+  "is_smoke": false,
+  "epochs": 15,
+  "best_val_cer": 0.1324,
+  "best_checkpoint_path": "models/checkpoints/stage8/best_tamil_crnn.pth",
+  "total_training_seconds": 60.96,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 9.7653,
+      "val_cer": 0.9009,
+      "val_wer": 1.0095,
+      "lr": 0.000297,
+      "epoch_seconds": 5.88
+    },
+    {
+      "epoch": 2,
+      "train_loss": 2.5952,
+      "val_cer": 0.4372,
+      "val_wer": 1.0333,
+      "lr": 0.000287,
+      "epoch_seconds": 3.47
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.2632,
+      "val_cer": 0.2563,
+      "val_wer": 0.819,
+      "lr": 0.000272,
+      "epoch_seconds": 3.45
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6972,
+      "val_cer": 0.1916,
+      "val_wer": 0.7262,
+      "lr": 0.000252,
+      "epoch_seconds": 3.32
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.4067,
+      "val_cer": 0.1505,
+      "val_wer": 0.5643,
+      "lr": 0.000227,
+      "epoch_seconds": 3.36
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.2872,
+      "val_cer": 0.1378,
+      "val_wer": 0.5071,
+      "lr": 0.0002,
+      "epoch_seconds": 3.34
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.1843,
+      "val_cer": 0.1486,
+      "val_wer": 0.5643,
+      "lr": 0.00017,
+      "epoch_seconds": 3.47
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.1313,
+      "val_cer": 0.1324,
+      "val_wer": 0.5262,
+      "lr": 0.00014,
+      "epoch_seconds": 3.55
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0799,
+      "val_cer": 0.1421,
+      "val_wer": 0.5238,
+      "lr": 0.00011,
+      "epoch_seconds": 3.46
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.053,
+      "val_cer": 0.1392,
+      "val_wer": 0.531,
+      "lr": 8.3e-05,
+      "epoch_seconds": 3.48
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.0333,
+      "val_cer": 0.1332,
+      "val_wer": 0.5024,
+      "lr": 5.8e-05,
+      "epoch_seconds": 3.54
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.0257,
+      "val_cer": 0.1336,
+      "val_wer": 0.5024,
+      "lr": 3.8e-05,
+      "epoch_seconds": 3.45
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.0239,
+      "val_cer": 0.1343,
+      "val_wer": 0.5095,
+      "lr": 2.3e-05,
+      "epoch_seconds": 3.54
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.018,
+      "val_cer": 0.1371,
+      "val_wer": 0.5167,
+      "lr": 1.3e-05,
+      "epoch_seconds": 3.49
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.0176,
+      "val_cer": 0.1353,
+      "val_wer": 0.5095,
+      "lr": 1e-05,
+      "epoch_seconds": 3.4
+    }
+  ],
+  "gpu_device": "NVIDIA GeForce RTX 4050 Laptop GPU"
+}

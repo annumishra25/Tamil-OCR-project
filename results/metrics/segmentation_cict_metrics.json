@@ -1,0 +1,11 @@
+{
+  "dataset": "CICT-PLM-GT-133",
+  "ground_truth_body_lines": 10,
+  "detected_lines": 13,
+  "matched_lines": 4,
+  "precision": 0.3077,
+  "recall": 0.4,
+  "f1_score": 0.3478,
+  "mean_iou": 0.4842,
+  "overlay_path": "results/visualizations/CICT_GT133_segmentation_overlay.png"
+}
