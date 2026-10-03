@@ -1,47 +1,58 @@
-# Python environment
-.venv/
-env/
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 
-# Node.js & Frontend build
-app/frontend/node_modules/
-app/frontend/dist/
-app/frontend/.vite/
-*.log
+# Virtual environment
+.venv/
+venv/
+env/
 
-# Large Raw Data Archives (Avoid GitHub 100MB limit)
-*.zip
-*.rar
-*.tar.gz
-*.7z
-data/raw/
-data/processed/staging/
+# IDE
+.vscode/
+.idea/
 
-# PyTorch Model Checkpoints & Large Weights
-models/pretrained/
-models/checkpoints/stage8/*.pth
-!models/checkpoints/stage8/.gitkeep
+# Environment / secrets
+.env
+.env.*
 
-# OS / IDE artifacts
+# OS files
 .DS_Store
 Thumbs.db
-.idea/
-.vscode/
-
-# Large trained model checkpoints
-models/checkpoints/
-
-# Local Python environment
-.venv/
 
 # Large model weights
 models/checkpoints/
 models/pretrained/
 *.pth
+*.pt
+*.ckpt
 
 # Large downloaded archives
 palmleaf-tamil.rar
+
+# Generated / temporary data
+*.tmp
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Dataset archives
+*.zip
+*.rar
+
+# Frontend dependencies and build output
+app/frontend/node_modules/
+app/frontend/dist/
+
+# Generated/staging data
+data/processed/staging/
+.venv/
+models/checkpoints/
+models/pretrained/
+*.pth
+palmleaf-tamil.rar
+# Raw manuscript datasets
+data/raw/
